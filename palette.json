@@ -1,0 +1,8333 @@
+{
+  "tiles": {
+    "0": {
+      "color": [
+        151,
+        107,
+        75
+      ],
+      "name": "Dirt Block"
+    },
+    "1": {
+      "color": [
+        128,
+        128,
+        128
+      ],
+      "name": "Stone Block"
+    },
+    "2": {
+      "color": [
+        28,
+        216,
+        94
+      ],
+      "name": "Grass Block"
+    },
+    "3": {
+      "color": [
+        27,
+        197,
+        109
+      ],
+      "name": "Forest Short Plants"
+    },
+    "4": {
+      "color": [
+        253,
+        221,
+        3
+      ],
+      "name": "Torches"
+    },
+    "5": {
+      "color": [
+        151,
+        107,
+        75
+      ],
+      "name": "Trees"
+    },
+    "6": {
+      "color": [
+        140,
+        101,
+        80
+      ],
+      "name": "Iron Ore"
+    },
+    "7": {
+      "color": [
+        150,
+        67,
+        22
+      ],
+      "name": "Copper Ore"
+    },
+    "8": {
+      "color": [
+        185,
+        164,
+        23
+      ],
+      "name": "Gold Ore"
+    },
+    "9": {
+      "color": [
+        185,
+        194,
+        195
+      ],
+      "name": "Silver Ore"
+    },
+    "10": {
+      "color": [
+        119,
+        105,
+        79
+      ],
+      "name": "Doors (Closed)"
+    },
+    "11": {
+      "color": [
+        119,
+        105,
+        79
+      ],
+      "name": "Doors (Open)"
+    },
+    "12": {
+      "color": [
+        174,
+        24,
+        69
+      ],
+      "name": "Crystal Heart"
+    },
+    "13": {
+      "color": [
+        133,
+        213,
+        247
+      ],
+      "name": "Placed Bottles"
+    },
+    "14": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Tables"
+    },
+    "15": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Chairs"
+    },
+    "16": {
+      "color": [
+        140,
+        130,
+        116
+      ],
+      "name": "Anvils"
+    },
+    "17": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Furnace"
+    },
+    "18": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Work Benches"
+    },
+    "19": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Platforms"
+    },
+    "20": {
+      "color": [
+        163,
+        116,
+        81
+      ],
+      "name": "Saplings"
+    },
+    "21": {
+      "color": [
+        233,
+        207,
+        94
+      ],
+      "name": "Chests"
+    },
+    "22": {
+      "color": [
+        98,
+        95,
+        167
+      ],
+      "name": "Demonite Ore"
+    },
+    "23": {
+      "color": [
+        141,
+        137,
+        223
+      ],
+      "name": "Corrupt Grass Block"
+    },
+    "24": {
+      "color": [
+        122,
+        116,
+        218
+      ],
+      "name": "Corruption Short Plants"
+    },
+    "25": {
+      "color": [
+        109,
+        90,
+        128
+      ],
+      "name": "Ebonstone Block"
+    },
+    "26": {
+      "color": [
+        119,
+        101,
+        125
+      ],
+      "name": "Altars"
+    },
+    "27": {
+      "color": [
+        226,
+        196,
+        49
+      ],
+      "name": "Sunflower"
+    },
+    "28": {
+      "color": [
+        151,
+        79,
+        80
+      ],
+      "name": "Pots"
+    },
+    "29": {
+      "color": [
+        175,
+        105,
+        128
+      ],
+      "name": "Piggy Bank"
+    },
+    "30": {
+      "color": [
+        170,
+        120,
+        84
+      ],
+      "name": "Wood"
+    },
+    "31": {
+      "color": [
+        141,
+        120,
+        168
+      ],
+      "name": "Orb Heart"
+    },
+    "32": {
+      "color": [
+        151,
+        135,
+        183
+      ],
+      "name": "Corruption Thorns"
+    },
+    "33": {
+      "color": [
+        253,
+        221,
+        3
+      ],
+      "name": "Candles"
+    },
+    "34": {
+      "color": [
+        235,
+        166,
+        135
+      ],
+      "name": "Chandeliers"
+    },
+    "35": {
+      "color": [
+        197,
+        216,
+        219
+      ],
+      "name": "Jack 'O Lantern"
+    },
+    "36": {
+      "color": [
+        230,
+        89,
+        92
+      ],
+      "name": "Presents"
+    },
+    "37": {
+      "color": [
+        104,
+        86,
+        84
+      ],
+      "name": "Meteorite Ore"
+    },
+    "38": {
+      "color": [
+        144,
+        144,
+        144
+      ],
+      "name": "Gray Brick"
+    },
+    "39": {
+      "color": [
+        181,
+        62,
+        59
+      ],
+      "name": "Red Brick"
+    },
+    "40": {
+      "color": [
+        146,
+        81,
+        68
+      ],
+      "name": "Clay Block"
+    },
+    "41": {
+      "color": [
+        66,
+        84,
+        109
+      ],
+      "name": "Blue Brick"
+    },
+    "42": {
+      "color": [
+        251,
+        235,
+        127
+      ],
+      "name": "Lanterns"
+    },
+    "43": {
+      "color": [
+        84,
+        100,
+        63
+      ],
+      "name": "Green Brick"
+    },
+    "44": {
+      "color": [
+        107,
+        68,
+        99
+      ],
+      "name": "Pink Brick"
+    },
+    "45": {
+      "color": [
+        185,
+        164,
+        23
+      ],
+      "name": "Gold Brick"
+    },
+    "46": {
+      "color": [
+        185,
+        194,
+        195
+      ],
+      "name": "Silver Brick"
+    },
+    "47": {
+      "color": [
+        150,
+        67,
+        22
+      ],
+      "name": "Copper Brick"
+    },
+    "48": {
+      "color": [
+        128,
+        128,
+        128
+      ],
+      "name": "Spike"
+    },
+    "49": {
+      "color": [
+        43,
+        143,
+        255
+      ],
+      "name": "Water Candle"
+    },
+    "50": {
+      "color": [
+        170,
+        48,
+        114
+      ],
+      "name": "Books"
+    },
+    "51": {
+      "color": [
+        192,
+        202,
+        203
+      ],
+      "name": "Cobweb"
+    },
+    "52": {
+      "color": [
+        23,
+        177,
+        76
+      ],
+      "name": "Vines"
+    },
+    "53": {
+      "color": [
+        255,
+        218,
+        56
+      ],
+      "name": "Sand Block"
+    },
+    "54": {
+      "color": [
+        200,
+        246,
+        254
+      ],
+      "name": "Glass Block"
+    },
+    "55": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Sign"
+    },
+    "56": {
+      "color": [
+        43,
+        40,
+        84
+      ],
+      "name": "Obsidian Block"
+    },
+    "57": {
+      "color": [
+        68,
+        68,
+        76
+      ],
+      "name": "Ash Block"
+    },
+    "58": {
+      "color": [
+        142,
+        66,
+        66
+      ],
+      "name": "Hellstone Ore"
+    },
+    "59": {
+      "color": [
+        92,
+        68,
+        73
+      ],
+      "name": "Mud Block"
+    },
+    "60": {
+      "color": [
+        143,
+        215,
+        29
+      ],
+      "name": "Jungle Grass Block"
+    },
+    "61": {
+      "color": [
+        135,
+        196,
+        26
+      ],
+      "name": "Jungle Short Plants"
+    },
+    "62": {
+      "color": [
+        121,
+        176,
+        24
+      ],
+      "name": "Jungle Vines"
+    },
+    "63": {
+      "color": [
+        110,
+        140,
+        182
+      ],
+      "name": "Sapphire Stone Block"
+    },
+    "64": {
+      "color": [
+        196,
+        96,
+        114
+      ],
+      "name": "Ruby Stone Block"
+    },
+    "65": {
+      "color": [
+        56,
+        150,
+        97
+      ],
+      "name": "Emerald Stone Block"
+    },
+    "66": {
+      "color": [
+        160,
+        118,
+        58
+      ],
+      "name": "Topaz Stone Block"
+    },
+    "67": {
+      "color": [
+        140,
+        58,
+        166
+      ],
+      "name": "Amethyst Stone Block"
+    },
+    "68": {
+      "color": [
+        125,
+        191,
+        197
+      ],
+      "name": "Diamond Stone Block"
+    },
+    "69": {
+      "color": [
+        190,
+        150,
+        92
+      ],
+      "name": "Jungle Thorns"
+    },
+    "70": {
+      "color": [
+        93,
+        127,
+        255
+      ],
+      "name": "Mushroom Grass Block"
+    },
+    "71": {
+      "color": [
+        182,
+        175,
+        130
+      ],
+      "name": "Mushroom Plant"
+    },
+    "72": {
+      "color": [
+        182,
+        175,
+        130
+      ],
+      "name": "Giant Glowing Mushroom (Underground)"
+    },
+    "73": {
+      "color": [
+        27,
+        197,
+        109
+      ],
+      "name": "Forest Tall Plants"
+    },
+    "74": {
+      "color": [
+        96,
+        197,
+        27
+      ],
+      "name": "Jungle Tall Plants"
+    },
+    "75": {
+      "color": [
+        36,
+        36,
+        36
+      ],
+      "name": "Obsidian Brick"
+    },
+    "76": {
+      "color": [
+        142,
+        66,
+        66
+      ],
+      "name": "Hellstone Brick"
+    },
+    "77": {
+      "color": [
+        238,
+        85,
+        70
+      ],
+      "name": "Hellforge"
+    },
+    "78": {
+      "color": [
+        121,
+        110,
+        97
+      ],
+      "name": "Clay Pot"
+    },
+    "79": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Beds"
+    },
+    "80": {
+      "color": [
+        73,
+        120,
+        17
+      ],
+      "name": "Cactus Plant"
+    },
+    "81": {
+      "color": [
+        245,
+        133,
+        191
+      ],
+      "name": "Coral"
+    },
+    "82": {
+      "color": [
+        255,
+        120,
+        0
+      ],
+      "name": "Herbs (Sprout)"
+    },
+    "83": {
+      "color": [
+        255,
+        120,
+        0
+      ],
+      "name": "Herbs (Mature)"
+    },
+    "84": {
+      "color": [
+        255,
+        120,
+        0
+      ],
+      "name": "Herbs (Bloom)"
+    },
+    "85": {
+      "color": [
+        192,
+        192,
+        192
+      ],
+      "name": "Tombstones"
+    },
+    "86": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Loom"
+    },
+    "87": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Pianos"
+    },
+    "88": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Dressers"
+    },
+    "89": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Benches"
+    },
+    "90": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Bathtubs"
+    },
+    "91": {
+      "color": [
+        13,
+        88,
+        130
+      ],
+      "name": "Banners"
+    },
+    "92": {
+      "color": [
+        213,
+        229,
+        237
+      ],
+      "name": "Lamp Post"
+    },
+    "93": {
+      "color": [
+        253,
+        221,
+        3
+      ],
+      "name": "Lamps"
+    },
+    "94": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Keg"
+    },
+    "95": {
+      "color": [
+        255,
+        162,
+        31
+      ],
+      "name": "Chinese Lantern"
+    },
+    "96": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Cooking Pots"
+    },
+    "97": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Safe"
+    },
+    "98": {
+      "color": [
+        253,
+        221,
+        3
+      ],
+      "name": "Skull Lantern"
+    },
+    "99": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Trash Can"
+    },
+    "100": {
+      "color": [
+        253,
+        221,
+        3
+      ],
+      "name": "Candelabras"
+    },
+    "101": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Bookcases"
+    },
+    "102": {
+      "color": [
+        229,
+        212,
+        73
+      ],
+      "name": "Throne"
+    },
+    "103": {
+      "color": [
+        141,
+        98,
+        77
+      ],
+      "name": "Bowls"
+    },
+    "104": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Clocks"
+    },
+    "105": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Statues"
+    },
+    "106": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Sawmill"
+    },
+    "107": {
+      "color": [
+        11,
+        80,
+        143
+      ],
+      "name": "Cobalt Ore"
+    },
+    "108": {
+      "color": [
+        91,
+        169,
+        169
+      ],
+      "name": "Mythril Ore"
+    },
+    "109": {
+      "color": [
+        78,
+        193,
+        227
+      ],
+      "name": "Hallowed Grass Block"
+    },
+    "110": {
+      "color": [
+        48,
+        186,
+        135
+      ],
+      "name": "Hallow Short Plants"
+    },
+    "111": {
+      "color": [
+        128,
+        26,
+        52
+      ],
+      "name": "Adamantite Ore"
+    },
+    "112": {
+      "color": [
+        103,
+        98,
+        122
+      ],
+      "name": "Ebonsand Block"
+    },
+    "113": {
+      "color": [
+        48,
+        208,
+        234
+      ],
+      "name": "Hallow Tall Plants"
+    },
+    "114": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Tinkerer's Workshop"
+    },
+    "115": {
+      "color": [
+        33,
+        171,
+        207
+      ],
+      "name": "Hallowed Vines"
+    },
+    "116": {
+      "color": [
+        238,
+        225,
+        218
+      ],
+      "name": "Pearlsand Block"
+    },
+    "117": {
+      "color": [
+        181,
+        172,
+        190
+      ],
+      "name": "Pearlstone Block"
+    },
+    "118": {
+      "color": [
+        238,
+        225,
+        218
+      ],
+      "name": "Pearlstone Brick"
+    },
+    "119": {
+      "color": [
+        107,
+        92,
+        108
+      ],
+      "name": "Iridescent Brick"
+    },
+    "120": {
+      "color": [
+        92,
+        68,
+        73
+      ],
+      "name": "Mudstone Brick"
+    },
+    "121": {
+      "color": [
+        11,
+        80,
+        143
+      ],
+      "name": "Cobalt Brick"
+    },
+    "122": {
+      "color": [
+        91,
+        169,
+        169
+      ],
+      "name": "Mythril Brick"
+    },
+    "123": {
+      "color": [
+        106,
+        107,
+        118
+      ],
+      "name": "Silt Block"
+    },
+    "124": {
+      "color": [
+        73,
+        51,
+        36
+      ],
+      "name": "Wooden Beam"
+    },
+    "125": {
+      "color": [
+        141,
+        175,
+        255
+      ],
+      "name": "Crystal Ball"
+    },
+    "126": {
+      "color": [
+        159,
+        209,
+        229
+      ],
+      "name": "Disco Ball"
+    },
+    "127": {
+      "color": [
+        128,
+        204,
+        230
+      ],
+      "name": "Ice (Ice Rod)"
+    },
+    "128": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Mannequin (Legacy)"
+    },
+    "129": {
+      "color": [
+        255,
+        117,
+        224
+      ],
+      "name": "Crystal Shard"
+    },
+    "130": {
+      "color": [
+        160,
+        160,
+        160
+      ],
+      "name": "Active Stone Block"
+    },
+    "131": {
+      "color": [
+        52,
+        52,
+        52
+      ],
+      "name": "Inactive Stone Block"
+    },
+    "132": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Lever"
+    },
+    "133": {
+      "color": [
+        231,
+        53,
+        56
+      ],
+      "name": "Forges"
+    },
+    "134": {
+      "color": [
+        166,
+        187,
+        153
+      ],
+      "name": "Anvils (Hardmode)"
+    },
+    "135": {
+      "color": [
+        253,
+        114,
+        114
+      ],
+      "name": "Pressure Plates"
+    },
+    "136": {
+      "color": [
+        213,
+        203,
+        204
+      ],
+      "name": "Switch"
+    },
+    "137": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Traps"
+    },
+    "138": {
+      "color": [
+        96,
+        96,
+        96
+      ],
+      "name": "Boulder"
+    },
+    "139": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Music Boxes"
+    },
+    "140": {
+      "color": [
+        98,
+        95,
+        167
+      ],
+      "name": "Demonite Brick"
+    },
+    "141": {
+      "color": [
+        192,
+        59,
+        59
+      ],
+      "name": "Explosives"
+    },
+    "142": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Inlet Pump"
+    },
+    "143": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Outlet Pump"
+    },
+    "144": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Timers"
+    },
+    "145": {
+      "color": [
+        192,
+        30,
+        30
+      ],
+      "name": "Red Candy Cane Block"
+    },
+    "146": {
+      "color": [
+        43,
+        192,
+        30
+      ],
+      "name": "Green Candy Cane Block"
+    },
+    "147": {
+      "color": [
+        211,
+        236,
+        241
+      ],
+      "name": "Snow Block"
+    },
+    "148": {
+      "color": [
+        181,
+        211,
+        210
+      ],
+      "name": "Snow Brick"
+    },
+    "149": {
+      "color": [
+        220,
+        50,
+        50
+      ],
+      "name": "Holiday Lights"
+    },
+    "150": {
+      "color": [
+        128,
+        26,
+        52
+      ],
+      "name": "Adamantite Beam"
+    },
+    "151": {
+      "color": [
+        190,
+        171,
+        94
+      ],
+      "name": "Sandstone Brick"
+    },
+    "152": {
+      "color": [
+        128,
+        133,
+        184
+      ],
+      "name": "Ebonstone Brick"
+    },
+    "153": {
+      "color": [
+        239,
+        141,
+        126
+      ],
+      "name": "Red Stucco"
+    },
+    "154": {
+      "color": [
+        190,
+        171,
+        94
+      ],
+      "name": "Yellow Stucco"
+    },
+    "155": {
+      "color": [
+        131,
+        162,
+        161
+      ],
+      "name": "Green Stucco"
+    },
+    "156": {
+      "color": [
+        170,
+        171,
+        157
+      ],
+      "name": "Gray Stucco"
+    },
+    "157": {
+      "color": [
+        104,
+        100,
+        126
+      ],
+      "name": "Ebonwood"
+    },
+    "158": {
+      "color": [
+        145,
+        81,
+        85
+      ],
+      "name": "Rich Mahogany"
+    },
+    "159": {
+      "color": [
+        148,
+        133,
+        98
+      ],
+      "name": "Pearlwood"
+    },
+    "160": {
+      "color": [
+        0,
+        0,
+        200
+      ],
+      "name": "Rainbow Brick"
+    },
+    "161": {
+      "color": [
+        144,
+        195,
+        232
+      ],
+      "name": "Ice Block"
+    },
+    "162": {
+      "color": [
+        184,
+        219,
+        240
+      ],
+      "name": "Thin Ice Block"
+    },
+    "163": {
+      "color": [
+        174,
+        145,
+        214
+      ],
+      "name": "Purple Ice Block"
+    },
+    "164": {
+      "color": [
+        218,
+        182,
+        204
+      ],
+      "name": "Pink Ice Block"
+    },
+    "165": {
+      "color": [
+        100,
+        100,
+        100
+      ],
+      "name": "Cave Decos"
+    },
+    "166": {
+      "color": [
+        129,
+        125,
+        93
+      ],
+      "name": "Tin Ore"
+    },
+    "167": {
+      "color": [
+        62,
+        82,
+        114
+      ],
+      "name": "Lead Ore"
+    },
+    "168": {
+      "color": [
+        132,
+        157,
+        127
+      ],
+      "name": "Tungsten Ore"
+    },
+    "169": {
+      "color": [
+        152,
+        171,
+        198
+      ],
+      "name": "Platinum Ore"
+    },
+    "170": {
+      "color": [
+        228,
+        219,
+        162
+      ],
+      "name": "Pine Tree Block"
+    },
+    "171": {
+      "color": [
+        33,
+        135,
+        85
+      ],
+      "name": "Christmas Tree"
+    },
+    "172": {
+      "color": [
+        181,
+        194,
+        217
+      ],
+      "name": "Sinks"
+    },
+    "173": {
+      "color": [
+        253,
+        221,
+        3
+      ],
+      "name": "Platinum Candelabra"
+    },
+    "174": {
+      "color": [
+        253,
+        221,
+        3
+      ],
+      "name": "Platinum Candle"
+    },
+    "175": {
+      "color": [
+        129,
+        125,
+        93
+      ],
+      "name": "Tin Brick"
+    },
+    "176": {
+      "color": [
+        132,
+        157,
+        127
+      ],
+      "name": "Tungsten Brick"
+    },
+    "177": {
+      "color": [
+        152,
+        171,
+        198
+      ],
+      "name": "Platinum Brick"
+    },
+    "178": {
+      "color": [
+        200,
+        0,
+        30
+      ],
+      "name": "Gem"
+    },
+    "179": {
+      "color": [
+        49,
+        134,
+        114
+      ],
+      "name": "Green Moss Block"
+    },
+    "180": {
+      "color": [
+        126,
+        134,
+        49
+      ],
+      "name": "Yellow Moss Block"
+    },
+    "181": {
+      "color": [
+        134,
+        59,
+        49
+      ],
+      "name": "Red Moss Block"
+    },
+    "182": {
+      "color": [
+        43,
+        86,
+        140
+      ],
+      "name": "Blue Moss Block"
+    },
+    "183": {
+      "color": [
+        121,
+        49,
+        134
+      ],
+      "name": "Purple Moss Block"
+    },
+    "184": {
+      "color": [
+        100,
+        100,
+        100
+      ],
+      "name": "Moss Plants"
+    },
+    "185": {
+      "color": [
+        149,
+        149,
+        115
+      ],
+      "name": "Small Furniture"
+    },
+    "186": {
+      "color": [
+        160,
+        82,
+        45
+      ],
+      "name": "Furniture"
+    },
+    "187": {
+      "color": [
+        160,
+        82,
+        45
+      ],
+      "name": "Furniture"
+    },
+    "188": {
+      "color": [
+        73,
+        120,
+        17
+      ],
+      "name": "Cactus Block"
+    },
+    "189": {
+      "color": [
+        223,
+        255,
+        255
+      ],
+      "name": "Cloud Block"
+    },
+    "190": {
+      "color": [
+        182,
+        175,
+        130
+      ],
+      "name": "Glowing Mushroom Block"
+    },
+    "191": {
+      "color": [
+        151,
+        107,
+        75
+      ],
+      "name": "Living Wood Block"
+    },
+    "192": {
+      "color": [
+        26,
+        196,
+        84
+      ],
+      "name": "Living Leaf Block"
+    },
+    "193": {
+      "color": [
+        56,
+        121,
+        255
+      ],
+      "name": "Slime Block"
+    },
+    "194": {
+      "color": [
+        157,
+        157,
+        107
+      ],
+      "name": "Bone Block"
+    },
+    "195": {
+      "color": [
+        134,
+        22,
+        34
+      ],
+      "name": "Flesh Block"
+    },
+    "196": {
+      "color": [
+        147,
+        144,
+        178
+      ],
+      "name": "Rain Cloud Block"
+    },
+    "197": {
+      "color": [
+        97,
+        200,
+        225
+      ],
+      "name": "Frozen Slime Block"
+    },
+    "198": {
+      "color": [
+        62,
+        61,
+        52
+      ],
+      "name": "Asphalt Block"
+    },
+    "199": {
+      "color": [
+        208,
+        80,
+        80
+      ],
+      "name": "Crimson Grass Block"
+    },
+    "200": {
+      "color": [
+        216,
+        152,
+        144
+      ],
+      "name": "Red Ice Block"
+    },
+    "201": {
+      "color": [
+        203,
+        61,
+        64
+      ],
+      "name": "Crimson Short Plants"
+    },
+    "202": {
+      "color": [
+        213,
+        178,
+        28
+      ],
+      "name": "Sunplate Block"
+    },
+    "203": {
+      "color": [
+        128,
+        44,
+        45
+      ],
+      "name": "Crimstone Block"
+    },
+    "204": {
+      "color": [
+        125,
+        55,
+        65
+      ],
+      "name": "Crimtane Ore"
+    },
+    "205": {
+      "color": [
+        186,
+        50,
+        52
+      ],
+      "name": "Crimson Vines"
+    },
+    "206": {
+      "color": [
+        124,
+        175,
+        201
+      ],
+      "name": "Ice Brick"
+    },
+    "207": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Water Fountains"
+    },
+    "208": {
+      "color": [
+        88,
+        105,
+        118
+      ],
+      "name": "Shadewood"
+    },
+    "209": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Cannons"
+    },
+    "210": {
+      "color": [
+        192,
+        59,
+        59
+      ],
+      "name": "Land Mine"
+    },
+    "211": {
+      "color": [
+        191,
+        233,
+        115
+      ],
+      "name": "Chlorophyte Ore"
+    },
+    "212": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Snowball Launcher"
+    },
+    "213": {
+      "color": [
+        137,
+        120,
+        67
+      ],
+      "name": "Rope"
+    },
+    "214": {
+      "color": [
+        103,
+        103,
+        103
+      ],
+      "name": "Chain"
+    },
+    "215": {
+      "color": [
+        254,
+        121,
+        2
+      ],
+      "name": "Campfires"
+    },
+    "216": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Rockets"
+    },
+    "217": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Blend-O-Matic"
+    },
+    "218": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Meat Grinder"
+    },
+    "219": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Extractinator"
+    },
+    "220": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Solidifier"
+    },
+    "221": {
+      "color": [
+        239,
+        90,
+        50
+      ],
+      "name": "Palladium Ore"
+    },
+    "222": {
+      "color": [
+        231,
+        96,
+        228
+      ],
+      "name": "Orichalcum Ore"
+    },
+    "223": {
+      "color": [
+        57,
+        85,
+        101
+      ],
+      "name": "Titanium Ore"
+    },
+    "224": {
+      "color": [
+        107,
+        132,
+        139
+      ],
+      "name": "Slush Block"
+    },
+    "225": {
+      "color": [
+        227,
+        125,
+        22
+      ],
+      "name": "Hive Block"
+    },
+    "226": {
+      "color": [
+        141,
+        56,
+        0
+      ],
+      "name": "Lihzahrd Brick"
+    },
+    "227": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "name": "Dye Plants"
+    },
+    "228": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Dye Vat"
+    },
+    "229": {
+      "color": [
+        255,
+        156,
+        12
+      ],
+      "name": "Honey Block"
+    },
+    "230": {
+      "color": [
+        131,
+        79,
+        13
+      ],
+      "name": "Crispy Honey Block"
+    },
+    "231": {
+      "color": [
+        224,
+        194,
+        101
+      ],
+      "name": "Larva"
+    },
+    "232": {
+      "color": [
+        145,
+        81,
+        85
+      ],
+      "name": "Wooden Spike"
+    },
+    "233": {
+      "color": [
+        2,
+        48,
+        42
+      ],
+      "name": "Jungle Large Plants"
+    },
+    "234": {
+      "color": [
+        53,
+        44,
+        41
+      ],
+      "name": "Crimsand Block"
+    },
+    "235": {
+      "color": [
+        214,
+        184,
+        46
+      ],
+      "name": "Teleporter"
+    },
+    "236": {
+      "color": [
+        149,
+        232,
+        87
+      ],
+      "name": "Life Fruit Plant"
+    },
+    "237": {
+      "color": [
+        255,
+        241,
+        51
+      ],
+      "name": "Lihzahrd Altar"
+    },
+    "238": {
+      "color": [
+        225,
+        128,
+        206
+      ],
+      "name": "Plantera's Bulb"
+    },
+    "239": {
+      "color": [
+        224,
+        194,
+        101
+      ],
+      "name": "Ore Bars"
+    },
+    "240": {
+      "color": [
+        99,
+        50,
+        30
+      ],
+      "name": "Wall Hangings 3x3"
+    },
+    "241": {
+      "color": [
+        77,
+        74,
+        72
+      ],
+      "name": "Catacombs"
+    },
+    "242": {
+      "color": [
+        99,
+        50,
+        30
+      ],
+      "name": "Paintings 6x4"
+    },
+    "243": {
+      "color": [
+        140,
+        179,
+        254
+      ],
+      "name": "Imbuing Station"
+    },
+    "244": {
+      "color": [
+        200,
+        245,
+        253
+      ],
+      "name": "Bubble Machine"
+    },
+    "245": {
+      "color": [
+        99,
+        50,
+        30
+      ],
+      "name": "Paintings 2x3"
+    },
+    "246": {
+      "color": [
+        99,
+        50,
+        30
+      ],
+      "name": "Paintings 3x2"
+    },
+    "247": {
+      "color": [
+        140,
+        150,
+        150
+      ],
+      "name": "Autohammer"
+    },
+    "248": {
+      "color": [
+        219,
+        71,
+        38
+      ],
+      "name": "Palladium Column"
+    },
+    "249": {
+      "color": [
+        249,
+        52,
+        243
+      ],
+      "name": "Bubblegum Block"
+    },
+    "250": {
+      "color": [
+        76,
+        74,
+        83
+      ],
+      "name": "Titanstone Block"
+    },
+    "251": {
+      "color": [
+        235,
+        150,
+        23
+      ],
+      "name": "Pumpkin Block"
+    },
+    "252": {
+      "color": [
+        153,
+        131,
+        44
+      ],
+      "name": "Hay Block"
+    },
+    "253": {
+      "color": [
+        57,
+        48,
+        97
+      ],
+      "name": "Spooky Wood"
+    },
+    "254": {
+      "color": [
+        248,
+        158,
+        92
+      ],
+      "name": "Pumpkin Plant"
+    },
+    "255": {
+      "color": [
+        107,
+        49,
+        154
+      ],
+      "name": "Amethyst Gemspark Block (Offline)"
+    },
+    "256": {
+      "color": [
+        154,
+        148,
+        49
+      ],
+      "name": "Topaz Gemspark Block (Offline)"
+    },
+    "257": {
+      "color": [
+        49,
+        49,
+        154
+      ],
+      "name": "Sapphire Gemspark Block (Offline)"
+    },
+    "258": {
+      "color": [
+        49,
+        154,
+        68
+      ],
+      "name": "Emerald Gemspark Block (Offline)"
+    },
+    "259": {
+      "color": [
+        154,
+        49,
+        77
+      ],
+      "name": "Ruby Gemspark Block (Offline)"
+    },
+    "260": {
+      "color": [
+        85,
+        89,
+        118
+      ],
+      "name": "Diamond Gemspark Block (Offline)"
+    },
+    "261": {
+      "color": [
+        154,
+        83,
+        49
+      ],
+      "name": "Amber Gemspark Block (Offline)"
+    },
+    "262": {
+      "color": [
+        221,
+        79,
+        255
+      ],
+      "name": "Amethyst Gemspark Block"
+    },
+    "263": {
+      "color": [
+        250,
+        255,
+        79
+      ],
+      "name": "Topaz Gemspark Block"
+    },
+    "264": {
+      "color": [
+        79,
+        102,
+        255
+      ],
+      "name": "Sapphire Gemspark Block"
+    },
+    "265": {
+      "color": [
+        79,
+        255,
+        89
+      ],
+      "name": "Emerald Gemspark Block"
+    },
+    "266": {
+      "color": [
+        255,
+        79,
+        79
+      ],
+      "name": "Ruby Gemspark Block"
+    },
+    "267": {
+      "color": [
+        240,
+        240,
+        247
+      ],
+      "name": "Diamond Gemspark Block"
+    },
+    "268": {
+      "color": [
+        255,
+        145,
+        79
+      ],
+      "name": "Amber Gemspark Block"
+    },
+    "269": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Womannequin (Legacy)"
+    },
+    "270": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Firefly in a Bottle"
+    },
+    "271": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Lightning Bug in a Bottle"
+    },
+    "272": {
+      "color": [
+        121,
+        119,
+        101
+      ],
+      "name": "Cog Block"
+    },
+    "273": {
+      "color": [
+        128,
+        128,
+        128
+      ],
+      "name": "Stone Slab"
+    },
+    "274": {
+      "color": [
+        190,
+        171,
+        94
+      ],
+      "name": "Sandstone Slab"
+    },
+    "275": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Bunny Cage"
+    },
+    "276": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Squirrel Cage"
+    },
+    "277": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Mallard Duck Cage"
+    },
+    "278": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Duck Cage"
+    },
+    "279": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Bird Cage"
+    },
+    "280": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Blue Jay Cage"
+    },
+    "281": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Cardinal Cage"
+    },
+    "282": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Fish Bowl"
+    },
+    "283": {
+      "color": [
+        128,
+        128,
+        128
+      ],
+      "name": "Heavy Work Bench"
+    },
+    "284": {
+      "color": [
+        150,
+        67,
+        22
+      ],
+      "name": "Copper Plating"
+    },
+    "285": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Snail Cage"
+    },
+    "286": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Glowing Snail Cage"
+    },
+    "287": {
+      "color": [
+        79,
+        128,
+        17
+      ],
+      "name": "Ammo Box"
+    },
+    "288": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Monarch Butterfly Jar"
+    },
+    "289": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Purple Emperor Butterfly Jar"
+    },
+    "290": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Red Admiral Butterfly Jar"
+    },
+    "291": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Ulysses Butterfly Jar"
+    },
+    "292": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Sulphur Butterfly Jar"
+    },
+    "293": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Tree Nymph Butterfly Jar"
+    },
+    "294": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Zebra Swallowtail Butterfly Jar"
+    },
+    "295": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Julia Butterfly Jar"
+    },
+    "296": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Scorpion Cage"
+    },
+    "297": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Black Scorpion Cage"
+    },
+    "298": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Frog Cage"
+    },
+    "299": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Mouse Cage"
+    },
+    "300": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Bone Welder"
+    },
+    "301": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Flesh Cloning Vat"
+    },
+    "302": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Glass Kiln"
+    },
+    "303": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Lihzahrd Furnace"
+    },
+    "304": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Living Loom"
+    },
+    "305": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Sky Mill"
+    },
+    "306": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Ice Machine"
+    },
+    "307": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Steampunk Boiler"
+    },
+    "308": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Honey Dispenser"
+    },
+    "309": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Penguin Cage"
+    },
+    "310": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Worm Cage"
+    },
+    "311": {
+      "color": [
+        117,
+        61,
+        25
+      ],
+      "name": "Dynasty Wood"
+    },
+    "312": {
+      "color": [
+        204,
+        93,
+        73
+      ],
+      "name": "Red Dynasty Shingles"
+    },
+    "313": {
+      "color": [
+        87,
+        150,
+        154
+      ],
+      "name": "Blue Dynasty Shingles"
+    },
+    "314": {
+      "color": [
+        181,
+        164,
+        125
+      ],
+      "name": "Minecart Track"
+    },
+    "315": {
+      "color": [
+        235,
+        114,
+        80
+      ],
+      "name": "Coralstone Block"
+    },
+    "316": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Blue Jellyfish Jar"
+    },
+    "317": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Green Jellyfish Jar"
+    },
+    "318": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Pink Jellyfish Jar"
+    },
+    "319": {
+      "color": [
+        96,
+        68,
+        48
+      ],
+      "name": "Ship in a Bottle"
+    },
+    "320": {
+      "color": [
+        203,
+        185,
+        151
+      ],
+      "name": "Seaweed Planter"
+    },
+    "321": {
+      "color": [
+        96,
+        77,
+        64
+      ],
+      "name": "Boreal Wood"
+    },
+    "322": {
+      "color": [
+        198,
+        170,
+        104
+      ],
+      "name": "Palm Wood"
+    },
+    "323": {
+      "color": [
+        182,
+        141,
+        86
+      ],
+      "name": "Palm Trees"
+    },
+    "324": {
+      "color": [
+        228,
+        213,
+        173
+      ],
+      "name": "Seashells"
+    },
+    "325": {
+      "color": [
+        129,
+        125,
+        93
+      ],
+      "name": "Tin Plating"
+    },
+    "326": {
+      "color": [
+        9,
+        61,
+        191
+      ],
+      "name": "Waterfall Block"
+    },
+    "327": {
+      "color": [
+        253,
+        32,
+        3
+      ],
+      "name": "Lavafall Block"
+    },
+    "328": {
+      "color": [
+        200,
+        246,
+        254
+      ],
+      "name": "Confetti Block"
+    },
+    "329": {
+      "color": [
+        15,
+        15,
+        15
+      ],
+      "name": "Midnight Confetti Block"
+    },
+    "330": {
+      "color": [
+        226,
+        118,
+        76
+      ],
+      "name": "Copper Coin Pile"
+    },
+    "331": {
+      "color": [
+        161,
+        172,
+        173
+      ],
+      "name": "Silver Coin Pile"
+    },
+    "332": {
+      "color": [
+        204,
+        181,
+        72
+      ],
+      "name": "Gold Coin Pile"
+    },
+    "333": {
+      "color": [
+        190,
+        190,
+        178
+      ],
+      "name": "Platinum Coin Pile"
+    },
+    "334": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Weapon Rack (Legacy - DO NOT USE)"
+    },
+    "335": {
+      "color": [
+        217,
+        174,
+        137
+      ],
+      "name": "Fireworks Box"
+    },
+    "336": {
+      "color": [
+        253,
+        62,
+        3
+      ],
+      "name": "Living Fire Block"
+    },
+    "337": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Text Statues"
+    },
+    "338": {
+      "color": [
+        85,
+        255,
+        160
+      ],
+      "name": "Firework Fountain"
+    },
+    "339": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Grasshopper Cage"
+    },
+    "340": {
+      "color": [
+        96,
+        248,
+        2
+      ],
+      "name": "Living Cursed Fire Block"
+    },
+    "341": {
+      "color": [
+        105,
+        74,
+        202
+      ],
+      "name": "Living Demon Fire Block"
+    },
+    "342": {
+      "color": [
+        29,
+        240,
+        255
+      ],
+      "name": "Living Frost Fire Block"
+    },
+    "343": {
+      "color": [
+        254,
+        202,
+        80
+      ],
+      "name": "Living Ichor Fire Block"
+    },
+    "344": {
+      "color": [
+        131,
+        252,
+        245
+      ],
+      "name": "Living Ultrabright Fire Block"
+    },
+    "345": {
+      "color": [
+        255,
+        156,
+        12
+      ],
+      "name": "Honeyfall Block"
+    },
+    "346": {
+      "color": [
+        149,
+        212,
+        89
+      ],
+      "name": "Chlorophyte Brick"
+    },
+    "347": {
+      "color": [
+        236,
+        74,
+        79
+      ],
+      "name": "Crimtane Brick"
+    },
+    "348": {
+      "color": [
+        44,
+        26,
+        233
+      ],
+      "name": "Shroomite Plating"
+    },
+    "349": {
+      "color": [
+        144,
+        148,
+        144
+      ],
+      "name": "Mushroom Statue"
+    },
+    "350": {
+      "color": [
+        55,
+        97,
+        155
+      ],
+      "name": "Martian Conduit Plating"
+    },
+    "351": {
+      "color": [
+        31,
+        31,
+        31
+      ],
+      "name": "Smoke Block"
+    },
+    "352": {
+      "color": [
+        238,
+        97,
+        94
+      ],
+      "name": "Crimtane Thorns"
+    },
+    "353": {
+      "color": [
+        28,
+        216,
+        94
+      ],
+      "name": "Vine Rope"
+    },
+    "354": {
+      "color": [
+        141,
+        107,
+        89
+      ],
+      "name": "Bewitching Table"
+    },
+    "355": {
+      "color": [
+        141,
+        107,
+        89
+      ],
+      "name": "Alchemy Table"
+    },
+    "356": {
+      "color": [
+        233,
+        203,
+        24
+      ],
+      "name": "Enchanted Sundial"
+    },
+    "357": {
+      "color": [
+        168,
+        178,
+        204
+      ],
+      "name": "Smooth Marble Block"
+    },
+    "358": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Gold Bird Cage"
+    },
+    "359": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Gold Bunny Cage"
+    },
+    "360": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Gold Butterfly Cage"
+    },
+    "361": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Gold Frog Cage"
+    },
+    "362": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Gold Grasshopper Cage"
+    },
+    "363": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Gold Mouse Cage"
+    },
+    "364": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Gold Worm Cage"
+    },
+    "365": {
+      "color": [
+        146,
+        136,
+        205
+      ],
+      "name": "Silk Rope"
+    },
+    "366": {
+      "color": [
+        223,
+        232,
+        233
+      ],
+      "name": "Web Rope"
+    },
+    "367": {
+      "color": [
+        168,
+        178,
+        204
+      ],
+      "name": "Marble Block"
+    },
+    "368": {
+      "color": [
+        50,
+        46,
+        104
+      ],
+      "name": "Granite Block"
+    },
+    "369": {
+      "color": [
+        50,
+        46,
+        104
+      ],
+      "name": "Smooth Granite Block"
+    },
+    "370": {
+      "color": [
+        127,
+        116,
+        194
+      ],
+      "name": "Meteorite Brick"
+    },
+    "371": {
+      "color": [
+        249,
+        101,
+        189
+      ],
+      "name": "Pink Slime Block"
+    },
+    "372": {
+      "color": [
+        252,
+        128,
+        201
+      ],
+      "name": "Peace Candle"
+    },
+    "373": {
+      "color": [
+        9,
+        61,
+        191
+      ],
+      "name": "Water Drip"
+    },
+    "374": {
+      "color": [
+        253,
+        32,
+        3
+      ],
+      "name": "Lava Drip"
+    },
+    "375": {
+      "color": [
+        255,
+        156,
+        12
+      ],
+      "name": "Honey Drip"
+    },
+    "376": {
+      "color": [
+        160,
+        120,
+        92
+      ],
+      "name": "Fishing Crates"
+    },
+    "377": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Sharpening Station"
+    },
+    "378": {
+      "color": [
+        160,
+        120,
+        100
+      ],
+      "name": "Target Dummy"
+    },
+    "379": {
+      "color": [
+        251,
+        209,
+        240
+      ],
+      "name": "Bubble"
+    },
+    "380": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Planter Boxes"
+    },
+    "381": {
+      "color": [
+        254,
+        121,
+        2
+      ],
+      "name": "Lava Moss"
+    },
+    "382": {
+      "color": [
+        28,
+        216,
+        94
+      ],
+      "name": "Flower Vines"
+    },
+    "383": {
+      "color": [
+        221,
+        136,
+        144
+      ],
+      "name": "Living Mahogany Block"
+    },
+    "384": {
+      "color": [
+        131,
+        206,
+        12
+      ],
+      "name": "Living Mahogany Leaves Block"
+    },
+    "385": {
+      "color": [
+        87,
+        21,
+        144
+      ],
+      "name": "Crystal Block"
+    },
+    "386": {
+      "color": [
+        127,
+        92,
+        69
+      ],
+      "name": "Trap Door (Open)"
+    },
+    "387": {
+      "color": [
+        127,
+        92,
+        69
+      ],
+      "name": "Trap Door (Closed)"
+    },
+    "388": {
+      "color": [
+        127,
+        92,
+        69
+      ],
+      "name": "Tall Gate (Closed)"
+    },
+    "389": {
+      "color": [
+        127,
+        92,
+        69
+      ],
+      "name": "Tall Gate (Open)"
+    },
+    "390": {
+      "color": [
+        253,
+        32,
+        3
+      ],
+      "name": "Lava Lamp"
+    },
+    "391": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Cage Enchanted Nightcrawler"
+    },
+    "392": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Buggy Cage"
+    },
+    "393": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Grubby Cage"
+    },
+    "394": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Sluggy Cage"
+    },
+    "395": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Item Frame"
+    },
+    "396": {
+      "color": [
+        198,
+        124,
+        78
+      ],
+      "name": "Sandstone Block"
+    },
+    "397": {
+      "color": [
+        212,
+        192,
+        100
+      ],
+      "name": "Hardened Sand Block"
+    },
+    "398": {
+      "color": [
+        100,
+        82,
+        126
+      ],
+      "name": "Corrupt Hardened Sand Block"
+    },
+    "399": {
+      "color": [
+        77,
+        76,
+        66
+      ],
+      "name": "Crimson Hardened Sand Block"
+    },
+    "400": {
+      "color": [
+        96,
+        68,
+        117
+      ],
+      "name": "Corrupt Sandstone Block"
+    },
+    "401": {
+      "color": [
+        68,
+        60,
+        51
+      ],
+      "name": "Crimson Sandstone Block"
+    },
+    "402": {
+      "color": [
+        174,
+        168,
+        186
+      ],
+      "name": "Hallow Hardened Sand Block"
+    },
+    "403": {
+      "color": [
+        205,
+        152,
+        186
+      ],
+      "name": "Hallow Sandstone Block"
+    },
+    "404": {
+      "color": [
+        140,
+        84,
+        60
+      ],
+      "name": "Desert Fossil Block"
+    },
+    "405": {
+      "color": [
+        140,
+        140,
+        140
+      ],
+      "name": "Fireplace"
+    },
+    "406": {
+      "color": [
+        120,
+        120,
+        120
+      ],
+      "name": "Chimney"
+    },
+    "407": {
+      "color": [
+        255,
+        227,
+        132
+      ],
+      "name": "Sturdy Fossil Block"
+    },
+    "408": {
+      "color": [
+        85,
+        83,
+        82
+      ],
+      "name": "Luminite Ore"
+    },
+    "409": {
+      "color": [
+        85,
+        83,
+        82
+      ],
+      "name": "Luminite Brick"
+    },
+    "410": {
+      "color": [
+        75,
+        139,
+        166
+      ],
+      "name": "Lunar Monoliths"
+    },
+    "411": {
+      "color": [
+        227,
+        46,
+        46
+      ],
+      "name": "Detonator"
+    },
+    "412": {
+      "color": [
+        75,
+        139,
+        166
+      ],
+      "name": "Lunar Crafting Station"
+    },
+    "413": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Red Squirrel Cage"
+    },
+    "414": {
+      "color": [
+        122,
+        217,
+        232
+      ],
+      "name": "Gold Squirrel Cage"
+    },
+    "415": {
+      "color": [
+        249,
+        75,
+        7
+      ],
+      "name": "Solar Fragment Block"
+    },
+    "416": {
+      "color": [
+        0,
+        160,
+        170
+      ],
+      "name": "Vortex Fragment Block"
+    },
+    "417": {
+      "color": [
+        160,
+        87,
+        234
+      ],
+      "name": "Nebula Fragment Block"
+    },
+    "418": {
+      "color": [
+        22,
+        173,
+        254
+      ],
+      "name": "Stardust Fragment Block"
+    },
+    "419": {
+      "color": [
+        117,
+        125,
+        151
+      ],
+      "name": "Logic Lamp"
+    },
+    "420": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "name": "Logic Gates"
+    },
+    "421": {
+      "color": [
+        73,
+        70,
+        70
+      ],
+      "name": "Conveyor Belt (CW)"
+    },
+    "422": {
+      "color": [
+        73,
+        70,
+        70
+      ],
+      "name": "Conveyor Belt (CCW)"
+    },
+    "423": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "name": "Logic Sensor"
+    },
+    "424": {
+      "color": [
+        146,
+        155,
+        187
+      ],
+      "name": "Junction Box"
+    },
+    "425": {
+      "color": [
+        174,
+        195,
+        215
+      ],
+      "name": "Announcement Box"
+    },
+    "426": {
+      "color": [
+        77,
+        11,
+        35
+      ],
+      "name": "Red Team Block"
+    },
+    "427": {
+      "color": [
+        119,
+        22,
+        52
+      ],
+      "name": "Red Team Platform"
+    },
+    "428": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "name": "Weighted Pressure Plates"
+    },
+    "429": {
+      "color": [
+        63,
+        63,
+        63
+      ],
+      "name": "Wire Bulb"
+    },
+    "430": {
+      "color": [
+        23,
+        119,
+        79
+      ],
+      "name": "Green Team Block"
+    },
+    "431": {
+      "color": [
+        23,
+        54,
+        119
+      ],
+      "name": "Blue Team Block"
+    },
+    "432": {
+      "color": [
+        119,
+        68,
+        23
+      ],
+      "name": "Yellow Team Block"
+    },
+    "433": {
+      "color": [
+        74,
+        23,
+        119
+      ],
+      "name": "Pink Team Block"
+    },
+    "434": {
+      "color": [
+        78,
+        82,
+        109
+      ],
+      "name": "White Team Block"
+    },
+    "435": {
+      "color": [
+        39,
+        168,
+        96
+      ],
+      "name": "Green Team Platform"
+    },
+    "436": {
+      "color": [
+        39,
+        94,
+        168
+      ],
+      "name": "Blue Team Platform"
+    },
+    "437": {
+      "color": [
+        168,
+        121,
+        39
+      ],
+      "name": "Yellow Team Platform"
+    },
+    "438": {
+      "color": [
+        111,
+        39,
+        168
+      ],
+      "name": "Pink Team Platform"
+    },
+    "439": {
+      "color": [
+        150,
+        148,
+        174
+      ],
+      "name": "White Team Platform"
+    },
+    "440": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "name": "Gem Locks"
+    },
+    "441": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "name": "Trapped Chests"
+    },
+    "442": {
+      "color": [
+        3,
+        144,
+        201
+      ],
+      "name": "Teal Pressure Pad"
+    },
+    "443": {
+      "color": [
+        123,
+        123,
+        123
+      ],
+      "name": "Geyser"
+    },
+    "444": {
+      "color": [
+        191,
+        176,
+        124
+      ],
+      "name": "Bee Hive"
+    },
+    "445": {
+      "color": [
+        55,
+        55,
+        73
+      ],
+      "name": "Pixel Box"
+    },
+    "446": {
+      "color": [
+        255,
+        66,
+        152
+      ],
+      "name": "Silly Pink Balloon Block"
+    },
+    "447": {
+      "color": [
+        179,
+        132,
+        255
+      ],
+      "name": "Silly Purple Balloon Block"
+    },
+    "448": {
+      "color": [
+        0,
+        206,
+        180
+      ],
+      "name": "Silly Green Balloon Block"
+    },
+    "449": {
+      "color": [
+        91,
+        186,
+        240
+      ],
+      "name": "Blue Streamer"
+    },
+    "450": {
+      "color": [
+        92,
+        240,
+        91
+      ],
+      "name": "Green Streamer"
+    },
+    "451": {
+      "color": [
+        240,
+        91,
+        147
+      ],
+      "name": "Pink Streamer"
+    },
+    "452": {
+      "color": [
+        255,
+        150,
+        181
+      ],
+      "name": "Silly Balloon Machine"
+    },
+    "453": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "name": "Silly Tied Balloon"
+    },
+    "454": {
+      "color": [
+        174,
+        16,
+        176
+      ],
+      "name": "Pigronata"
+    },
+    "455": {
+      "color": [
+        48,
+        255,
+        110
+      ],
+      "name": "Party Center"
+    },
+    "456": {
+      "color": [
+        179,
+        132,
+        255
+      ],
+      "name": "Silly Tied Bundle of Balloons"
+    },
+    "457": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "name": "Party Presents"
+    },
+    "458": {
+      "color": [
+        211,
+        198,
+        111
+      ],
+      "name": "Sandfall Block"
+    },
+    "459": {
+      "color": [
+        190,
+        223,
+        232
+      ],
+      "name": "Snowfall Block"
+    },
+    "460": {
+      "color": [
+        141,
+        163,
+        181
+      ],
+      "name": "Snow Cloud Block"
+    },
+    "461": {
+      "color": [
+        255,
+        222,
+        100
+      ],
+      "name": "Sand Drip"
+    },
+    "462": {
+      "color": [
+        231,
+        178,
+        28
+      ],
+      "name": "Desert Spirit Lamp"
+    },
+    "463": {
+      "color": [
+        155,
+        214,
+        240
+      ],
+      "name": "Defender's Forge"
+    },
+    "464": {
+      "color": [
+        233,
+        183,
+        128
+      ],
+      "name": "War Table"
+    },
+    "465": {
+      "color": [
+        51,
+        84,
+        195
+      ],
+      "name": "War Table Banner"
+    },
+    "466": {
+      "color": [
+        205,
+        153,
+        73
+      ],
+      "name": "Elder Cystal Stand"
+    },
+    "467": {
+      "color": [
+        233,
+        207,
+        94
+      ],
+      "name": "Chests (Group 2)"
+    },
+    "468": {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "name": "Trapped Chests (Group 2)"
+    },
+    "469": {
+      "color": [
+        191,
+        142,
+        111
+      ],
+      "name": "Tables (Group 2)"
+    },
+    "470": {
+      "color": [
+        123,
+        91,
+        68
+      ],
+      "name": "Mannequins"
+    },
+    "471": {
+      "color": [
+        111,
+        81,
+        58
+      ],
+      "name": "Weapon Rack"
+    },
+    "472": {
+      "color": [
+        141,
+        121,
+        111
+      ],
+      "name": "Iron Brick"
+    },
+    "473": {
+      "color": [
+        66,
+        80,
+        94
+      ],
+      "name": "Lead Brick"
+    },
+    "474": {
+      "color": [
+        117,
+        94,
+        96
+      ],
+      "name": "Lesion Block"
+    },
+    "475": {
+      "color": [
+        107,
+        79,
+        59
+      ],
+      "name": "Hat Rack"
+    },
+    "476": {
+      "color": [
+        133,
+        144,
+        154
+      ],
+      "name": "Golf Cup"
+    },
+    "477": {
+      "color": [
+        96,
+        112,
+        68
+      ],
+      "name": "Mowed Grass Block"
+    },
+    "478": {
+      "color": [
+        165,
+        85,
+        87
+      ],
+      "name": "Crimstone Brick"
+    },
+    "479": {
+      "color": [
+        188,
+        115,
+        71
+      ],
+      "name": "Smooth Sandstone Block"
+    },
+    "480": {
+      "color": [
+        130,
+        124,
+        127
+      ],
+      "name": "Blood Moon Monolith"
+    },
+    "481": {
+      "color": [
+        56,
+        62,
+        80
+      ],
+      "name": "Cracked Blue Brick"
+    },
+    "482": {
+      "color": [
+        62,
+        77,
+        71
+      ],
+      "name": "Cracked Green Brick"
+    },
+    "483": {
+      "color": [
+        122,
+        64,
+        95
+      ],
+      "name": "Cracked Pink Brick"
+    },
+    "484": {
+      "color": [
+        115,
+        126,
+        61
+      ],
+      "name": "Rolling Cactus"
+    },
+    "485": {
+      "color": [
+        161,
+        121,
+        86
+      ],
+      "name": "Antlion Larva"
+    },
+    "486": {
+      "color": [
+        122,
+        119,
+        92
+      ],
+      "name": "Drum Set"
+    },
+    "487": {
+      "color": [
+        141,
+        90,
+        87
+      ],
+      "name": "Picnic Tables"
+    },
+    "488": {
+      "color": [
+        114,
+        101,
+        79
+      ],
+      "name": "Fallen Log"
+    },
+    "489": {
+      "color": [
+        84,
+        90,
+        131
+      ],
+      "name": "Pin Wheel"
+    },
+    "490": {
+      "color": [
+        128,
+        135,
+        137
+      ],
+      "name": "Weather Vane"
+    },
+    "491": {
+      "color": [
+        129,
+        73,
+        177
+      ],
+      "name": "Void Vault"
+    },
+    "492": {
+      "color": [
+        104,
+        108,
+        99
+      ],
+      "name": "Hallowed Mowed Grass Block"
+    },
+    "493": {
+      "color": [
+        136,
+        85,
+        161
+      ],
+      "name": "Pin Flags"
+    },
+    "494": {
+      "color": [
+        165,
+        164,
+        182
+      ],
+      "name": "Golf Tee"
+    },
+    "495": {
+      "color": [
+        175,
+        151,
+        110
+      ],
+      "name": "Shell Pile Block"
+    },
+    "496": {
+      "color": [
+        101,
+        90,
+        84
+      ],
+      "name": "Anti-Portal Block"
+    },
+    "497": {
+      "color": [
+        53,
+        109,
+        64
+      ],
+      "name": "Toilets"
+    },
+    "498": {
+      "color": [
+        142,
+        97,
+        77
+      ],
+      "name": "Spider Nest Block"
+    },
+    "499": {
+      "color": [
+        143,
+        148,
+        117
+      ],
+      "name": "Decay Chamber"
+    },
+    "500": {
+      "color": [
+        123,
+        70,
+        62
+      ],
+      "name": "Solar Brick"
+    },
+    "501": {
+      "color": [
+        107,
+        103,
+        114
+      ],
+      "name": "Vortex Brick"
+    },
+    "502": {
+      "color": [
+        121,
+        149,
+        171
+      ],
+      "name": "Nebula Brick"
+    },
+    "503": {
+      "color": [
+        188,
+        140,
+        83
+      ],
+      "name": "Stardust Brick"
+    },
+    "504": {
+      "color": [
+        92,
+        75,
+        118
+      ],
+      "name": "Mystic Snake Rope"
+    },
+    "505": {
+      "color": [
+        115,
+        137,
+        140
+      ],
+      "name": "Gold Fish Bowl"
+    },
+    "506": {
+      "color": [
+        41,
+        28,
+        19
+      ],
+      "name": "Bast Statue"
+    },
+    "507": {
+      "color": [
+        102,
+        80,
+        61
+      ],
+      "name": "Gold Starry Block"
+    },
+    "508": {
+      "color": [
+        31,
+        56,
+        98
+      ],
+      "name": "Blue Starry Block"
+    },
+    "509": {
+      "color": [
+        54,
+        54,
+        58
+      ],
+      "name": "Void Monolith"
+    },
+    "510": {
+      "color": [
+        115,
+        83,
+        60
+      ],
+      "name": "Arrow Sign"
+    },
+    "511": {
+      "color": [
+        135,
+        94,
+        99
+      ],
+      "name": "Painted Arrow Sign"
+    },
+    "512": {
+      "color": [
+        83,
+        112,
+        105
+      ],
+      "name": "Green Moss Brick"
+    },
+    "513": {
+      "color": [
+        108,
+        110,
+        87
+      ],
+      "name": "Brown Moss Brick"
+    },
+    "514": {
+      "color": [
+        126,
+        112,
+        99
+      ],
+      "name": "Red Moss Brick"
+    },
+    "515": {
+      "color": [
+        76,
+        100,
+        112
+      ],
+      "name": "Blue Moss Brick"
+    },
+    "516": {
+      "color": [
+        106,
+        82,
+        120
+      ],
+      "name": "Purple Moss Brick"
+    },
+    "517": {
+      "color": [
+        161,
+        112,
+        79
+      ],
+      "name": "Lava Moss Brick"
+    },
+    "518": {
+      "color": [
+        108,
+        95,
+        132
+      ],
+      "name": "Lily Pads"
+    },
+    "519": {
+      "color": [
+        127,
+        127,
+        153
+      ],
+      "name": "Cattails"
+    },
+    "520": {
+      "color": [
+        135,
+        146,
+        156
+      ],
+      "name": "Plate"
+    },
+    "521": {
+      "color": [
+        73,
+        106,
+        110
+      ],
+      "name": "Black Dragonfly Jar"
+    },
+    "522": {
+      "color": [
+        73,
+        114,
+        125
+      ],
+      "name": "Blue Dragonfly Jar"
+    },
+    "523": {
+      "color": [
+        71,
+        120,
+        116
+      ],
+      "name": "Green Dragonfly Jar"
+    },
+    "524": {
+      "color": [
+        94,
+        113,
+        103
+      ],
+      "name": "Orange Dragonfly Jar"
+    },
+    "525": {
+      "color": [
+        87,
+        104,
+        112
+      ],
+      "name": "Red Dragonfly Jar"
+    },
+    "526": {
+      "color": [
+        81,
+        109,
+        95
+      ],
+      "name": "Yellow Dragonfly Jar"
+    },
+    "527": {
+      "color": [
+        98,
+        124,
+        90
+      ],
+      "name": "Gold Dragonfly Jar"
+    },
+    "528": {
+      "color": [
+        130,
+        126,
+        93
+      ],
+      "name": "Mushroom Vines"
+    },
+    "529": {
+      "color": [
+        103,
+        88,
+        116
+      ],
+      "name": "Sea Oats"
+    },
+    "530": {
+      "color": [
+        91,
+        84,
+        108
+      ],
+      "name": "Oasis Plants"
+    },
+    "531": {
+      "color": [
+        107,
+        107,
+        107
+      ],
+      "name": "Boulder Statue"
+    },
+    "532": {
+      "color": [
+        89,
+        117,
+        110
+      ],
+      "name": "Maggot Cage"
+    },
+    "533": {
+      "color": [
+        105,
+        116,
+        118
+      ],
+      "name": "Rat Cage"
+    },
+    "534": {
+      "color": [
+        129,
+        160,
+        95
+      ],
+      "name": "Krypton Moss Block"
+    },
+    "535": {
+      "color": [
+        104,
+        144,
+        78
+      ],
+      "name": "Krypton Moss Brick"
+    },
+    "536": {
+      "color": [
+        88,
+        148,
+        152
+      ],
+      "name": "Xenon Moss Block"
+    },
+    "537": {
+      "color": [
+        65,
+        131,
+        141
+      ],
+      "name": "Xenon Moss Brick"
+    },
+    "538": {
+      "color": [
+        85,
+        95,
+        96
+      ],
+      "name": "Ladybug Cage"
+    },
+    "539": {
+      "color": [
+        154,
+        99,
+        135
+      ],
+      "name": "Argon Moss Block"
+    },
+    "540": {
+      "color": [
+        142,
+        75,
+        124
+      ],
+      "name": "Argon Moss Brick"
+    },
+    "541": {
+      "color": [
+        50,
+        107,
+        197
+      ],
+      "name": "Echo Block"
+    },
+    "542": {
+      "color": [
+        106,
+        120,
+        103
+      ],
+      "name": "Owl Cage"
+    },
+    "543": {
+      "color": [
+        80,
+        157,
+        183
+      ],
+      "name": "Pupfish Bowl"
+    },
+    "544": {
+      "color": [
+        101,
+        125,
+        96
+      ],
+      "name": "Gold Ladybug Cage"
+    },
+    "545": {
+      "color": [
+        174,
+        76,
+        103
+      ],
+      "name": "Lawn Flamingo"
+    },
+    "546": {
+      "color": [
+        135,
+        105,
+        94
+      ],
+      "name": "Grate Block"
+    },
+    "547": {
+      "color": [
+        80,
+        93,
+        33
+      ],
+      "name": "Potted Trees"
+    },
+    "548": {
+      "color": [
+        134,
+        96,
+        54
+      ],
+      "name": "Potted Trees (Group 2)"
+    },
+    "549": {
+      "color": [
+        56,
+        88,
+        6
+      ],
+      "name": "Seaweed"
+    },
+    "550": {
+      "color": [
+        71,
+        107,
+        101
+      ],
+      "name": "Turtle Cage"
+    },
+    "551": {
+      "color": [
+        66,
+        115,
+        95
+      ],
+      "name": "Jungle Turtle Cage"
+    },
+    "552": {
+      "color": [
+        136,
+        128,
+        66
+      ],
+      "name": "Sandcastle Bucket"
+    },
+    "553": {
+      "color": [
+        97,
+        107,
+        100
+      ],
+      "name": "Grebe Cage"
+    },
+    "554": {
+      "color": [
+        111,
+        129,
+        123
+      ],
+      "name": "Seagull Cage"
+    },
+    "555": {
+      "color": [
+        73,
+        123,
+        144
+      ],
+      "name": "Water Strider Cage"
+    },
+    "556": {
+      "color": [
+        106,
+        136,
+        111
+      ],
+      "name": "Gold Water Strider Cage"
+    },
+    "557": {
+      "color": [
+        98,
+        72,
+        64
+      ],
+      "name": "Grate Block closed"
+    },
+    "558": {
+      "color": [
+        101,
+        127,
+        137
+      ],
+      "name": "Seahorse Cage"
+    },
+    "559": {
+      "color": [
+        113,
+        146,
+        126
+      ],
+      "name": "Gold Seahorse Cage"
+    },
+    "560": {
+      "color": [
+        144,
+        127,
+        59
+      ],
+      "name": "Golf Trophies"
+    },
+    "561": {
+      "color": [
+        110,
+        116,
+        130
+      ],
+      "name": "Marble Column"
+    },
+    "562": {
+      "color": [
+        115,
+        122,
+        45
+      ],
+      "name": "Bamboo Block"
+    },
+    "563": {
+      "color": [
+        115,
+        122,
+        45
+      ],
+      "name": "Large Bamboo Block"
+    },
+    "564": {
+      "color": [
+        87,
+        92,
+        112
+      ],
+      "name": "Plasma Lamp"
+    },
+    "565": {
+      "color": [
+        98,
+        129,
+        149
+      ],
+      "name": "Fog Machine"
+    },
+    "566": {
+      "color": [
+        168,
+        138,
+        100
+      ],
+      "name": "Amber Stone Block"
+    },
+    "567": {
+      "color": [
+        147,
+        131,
+        129
+      ],
+      "name": "Garden Gnome"
+    },
+    "568": {
+      "color": [
+        126,
+        136,
+        160
+      ],
+      "name": "Pink Fairy Jar"
+    },
+    "569": {
+      "color": [
+        119,
+        152,
+        164
+      ],
+      "name": "Green Fairy Jar"
+    },
+    "570": {
+      "color": [
+        117,
+        148,
+        167
+      ],
+      "name": "Blue Fairy Jar"
+    },
+    "571": {
+      "color": [
+        99,
+        128,
+        23
+      ],
+      "name": "Bamboo"
+    },
+    "572": {
+      "color": [
+        130,
+        121,
+        149
+      ],
+      "name": "Souls in a Bottle"
+    },
+    "573": {
+      "color": [
+        94,
+        71,
+        54
+      ],
+      "name": "Tattered Wood Sign"
+    },
+    "574": {
+      "color": [
+        68,
+        55,
+        47
+      ],
+      "name": "Boreal Beam"
+    },
+    "575": {
+      "color": [
+        96,
+        57,
+        60
+      ],
+      "name": "Rich Mahogany Beam"
+    },
+    "576": {
+      "color": [
+        36,
+        38,
+        89
+      ],
+      "name": "Granite Column"
+    },
+    "577": {
+      "color": [
+        136,
+        86,
+        53
+      ],
+      "name": "Sandstone Column"
+    },
+    "578": {
+      "color": [
+        87,
+        83,
+        64
+      ],
+      "name": "Mushroom Beam"
+    },
+    "579": {
+      "color": [
+        85,
+        125,
+        100
+      ],
+      "name": "Rock Golem Head"
+    },
+    "580": {
+      "color": [
+        110,
+        93,
+        93
+      ],
+      "name": "Hell Butterfly Jar"
+    },
+    "581": {
+      "color": [
+        116,
+        113,
+        121
+      ],
+      "name": "Lavafly in a Bottle"
+    },
+    "582": {
+      "color": [
+        106,
+        103,
+        105
+      ],
+      "name": "Magma Snail Cage"
+    },
+    "583": {
+      "color": [
+        113,
+        113,
+        113
+      ],
+      "name": "Topaz Tree"
+    },
+    "584": {
+      "color": [
+        113,
+        113,
+        113
+      ],
+      "name": "Amethyst Tree"
+    },
+    "585": {
+      "color": [
+        113,
+        113,
+        113
+      ],
+      "name": "Sapphire Tree"
+    },
+    "586": {
+      "color": [
+        113,
+        113,
+        113
+      ],
+      "name": "Emerald Tree"
+    },
+    "587": {
+      "color": [
+        113,
+        113,
+        113
+      ],
+      "name": "Ruby Tree"
+    },
+    "588": {
+      "color": [
+        113,
+        113,
+        113
+      ],
+      "name": "Diamond Tree"
+    },
+    "589": {
+      "color": [
+        113,
+        113,
+        113
+      ],
+      "name": "Amber Tree"
+    },
+    "590": {
+      "color": [
+        142,
+        113,
+        79
+      ],
+      "name": "Gem Saplings"
+    },
+    "591": {
+      "color": [
+        145,
+        84,
+        56
+      ],
+      "name": "Hanging Pots"
+    },
+    "592": {
+      "color": [
+        165,
+        115,
+        69
+      ],
+      "name": "Hanging Brazier"
+    },
+    "593": {
+      "color": [
+        104,
+        76,
+        67
+      ],
+      "name": "Mini Volcano"
+    },
+    "594": {
+      "color": [
+        116,
+        85,
+        64
+      ],
+      "name": "Large Volcano"
+    },
+    "595": {
+      "color": [
+        147,
+        94,
+        104
+      ],
+      "name": "Sakura Sapling"
+    },
+    "596": {
+      "color": [
+        110,
+        91,
+        77
+      ],
+      "name": "Vanity Tree Sakura"
+    },
+    "597": {
+      "color": [
+        120,
+        127,
+        75
+      ],
+      "name": "Pylons"
+    },
+    "598": {
+      "color": [
+        146,
+        114,
+        111
+      ],
+      "name": "Lava Serpent Bowl"
+    },
+    "599": {
+      "color": [
+        120,
+        134,
+        161
+      ],
+      "name": "Amethyst Bunny Cage"
+    },
+    "600": {
+      "color": [
+        123,
+        142,
+        133
+      ],
+      "name": "Topaz Bunny Cage"
+    },
+    "601": {
+      "color": [
+        99,
+        139,
+        156
+      ],
+      "name": "Sapphire Bunny Cage"
+    },
+    "602": {
+      "color": [
+        98,
+        143,
+        144
+      ],
+      "name": "Emerald Bunny Cage"
+    },
+    "603": {
+      "color": [
+        123,
+        131,
+        138
+      ],
+      "name": "Ruby Bunny Cage"
+    },
+    "604": {
+      "color": [
+        115,
+        144,
+        159
+      ],
+      "name": "Diamond Bunny Cage"
+    },
+    "605": {
+      "color": [
+        122,
+        139,
+        132
+      ],
+      "name": "Amber Bunny Cage"
+    },
+    "606": {
+      "color": [
+        127,
+        140,
+        165
+      ],
+      "name": "Amethyst Squirrel Cage"
+    },
+    "607": {
+      "color": [
+        131,
+        149,
+        135
+      ],
+      "name": "Topaz Squirrel Cage"
+    },
+    "608": {
+      "color": [
+        107,
+        147,
+        165
+      ],
+      "name": "Sapphire Squirrel Cage"
+    },
+    "609": {
+      "color": [
+        109,
+        153,
+        144
+      ],
+      "name": "Emerald Squirrel Cage"
+    },
+    "610": {
+      "color": [
+        132,
+        136,
+        140
+      ],
+      "name": "Ruby Squirrel Cage"
+    },
+    "611": {
+      "color": [
+        115,
+        147,
+        158
+      ],
+      "name": "Diamond Squirrel Cage"
+    },
+    "612": {
+      "color": [
+        131,
+        140,
+        130
+      ],
+      "name": "Amber Squirrel Cage"
+    },
+    "613": {
+      "color": [
+        136,
+        93,
+        52
+      ],
+      "name": "Potted Lava Plants"
+    },
+    "614": {
+      "color": [
+        114,
+        77,
+        49
+      ],
+      "name": "Potted Ember Tendrils"
+    },
+    "615": {
+      "color": [
+        150,
+        108,
+        74
+      ],
+      "name": "Yellow Willow Sapling"
+    },
+    "616": {
+      "color": [
+        133,
+        79,
+        77
+      ],
+      "name": "Vanity Tree Yellow Willow"
+    },
+    "617": {
+      "color": [
+        126,
+        108,
+        44
+      ],
+      "name": "Relic Base"
+    },
+    "618": {
+      "color": [
+        130,
+        130,
+        130
+      ],
+      "name": "Stone Accent Slab"
+    },
+    "619": {
+      "color": [
+        85,
+        115,
+        129
+      ],
+      "name": "Truffle Worm Cage"
+    },
+    "620": {
+      "color": [
+        72,
+        85,
+        99
+      ],
+      "name": "Prismatic Lacewing Jar"
+    },
+    "621": {
+      "color": [
+        142,
+        106,
+        103
+      ],
+      "name": "Slice of Cake"
+    },
+    "622": {
+      "color": [
+        145,
+        141,
+        106
+      ],
+      "name": "Teapot"
+    },
+    "623": {
+      "color": [
+        178,
+        145,
+        158
+      ],
+      "name": "Potted Crystal Plants"
+    },
+    "624": {
+      "color": [
+        188,
+        85,
+        67
+      ],
+      "name": "Abigail's Flower"
+    },
+    "625": {
+      "color": [
+        144,
+        96,
+        148
+      ],
+      "name": "Neon Moss Block"
+    },
+    "626": {
+      "color": [
+        134,
+        89,
+        141
+      ],
+      "name": "Neon Moss Brick"
+    },
+    "627": {
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "name": "Helium Moss Block"
+    },
+    "628": {
+      "color": [
+        133,
+        133,
+        133
+      ],
+      "name": "Helium Moss Brick"
+    },
+    "629": {
+      "color": [
+        76,
+        108,
+        96
+      ],
+      "name": "Stinkbug Cage"
+    },
+    "630": {
+      "color": [
+        85,
+        94,
+        54
+      ],
+      "name": "Stinkbug Blocker"
+    },
+    "631": {
+      "color": [
+        68,
+        157,
+        182
+      ],
+      "name": "Ghostly Stinkbug Blocker"
+    },
+    "632": {
+      "color": [
+        109,
+        123,
+        113
+      ],
+      "name": "Scarlet Macaw Cage"
+    },
+    "633": {
+      "color": [
+        102,
+        71,
+        74
+      ],
+      "name": "Ash Grass Block"
+    },
+    "634": {
+      "color": [
+        125,
+        84,
+        83
+      ],
+      "name": "Ash Tree"
+    },
+    "635": {
+      "color": [
+        95,
+        82,
+        92
+      ],
+      "name": "Ash Wood"
+    },
+    "636": {
+      "color": [
+        116,
+        108,
+        163
+      ],
+      "name": "Corrupt Vines"
+    },
+    "637": {
+      "color": [
+        136,
+        67,
+        56
+      ],
+      "name": "Ash Short Plants"
+    },
+    "638": {
+      "color": [
+        132,
+        74,
+        60
+      ],
+      "name": "Ash Vines"
+    },
+    "639": {
+      "color": [
+        83,
+        87,
+        161
+      ],
+      "name": "Mana Crystal"
+    },
+    "640": {
+      "color": [
+        103,
+        132,
+        120
+      ],
+      "name": "Blue Macaw Cage"
+    },
+    "641": {
+      "color": [
+        205,
+        121,
+        135
+      ],
+      "name": "Reef Block"
+    },
+    "642": {
+      "color": [
+        110,
+        139,
+        129
+      ],
+      "name": "Chlorophyte Extractinator"
+    },
+    "643": {
+      "color": [
+        118,
+        122,
+        110
+      ],
+      "name": "Toucan Cage"
+    },
+    "644": {
+      "color": [
+        117,
+        125,
+        103
+      ],
+      "name": "Yellow Cockatiel Cage"
+    },
+    "645": {
+      "color": [
+        106,
+        125,
+        110
+      ],
+      "name": "Gray Cockatiel Cage"
+    },
+    "646": {
+      "color": [
+        84,
+        84,
+        77
+      ],
+      "name": "Shadow Candle"
+    },
+    "647": {
+      "color": [
+        130,
+        130,
+        104
+      ],
+      "name": "Large Rubble (3x2)"
+    },
+    "648": {
+      "color": [
+        95,
+        122,
+        64
+      ],
+      "name": "Large Rubble (3x2) (Group 2)"
+    },
+    "649": {
+      "color": [
+        92,
+        92,
+        92
+      ],
+      "name": "Medium Rubble (2x1)"
+    },
+    "650": {
+      "color": [
+        100,
+        100,
+        100
+      ],
+      "name": "Small Rubble (1x1)"
+    },
+    "651": {
+      "color": [
+        87,
+        136,
+        7
+      ],
+      "name": "Large Rubble (3x2) (Group 3)"
+    },
+    "652": {
+      "color": [
+        74,
+        129,
+        10
+      ],
+      "name": "Medium Rubble (2x2)"
+    },
+    "653": {
+      "color": [
+        83,
+        56,
+        48
+      ],
+      "name": "Pots (Rubblemaker)"
+    },
+    "654": {
+      "color": [
+        143,
+        103,
+        104
+      ],
+      "name": "TNT Barrel"
+    },
+    "655": {
+      "color": [
+        168,
+        83,
+        134
+      ],
+      "name": "Plantera Thorns"
+    },
+    "656": {
+      "color": [
+        57,
+        149,
+        179
+      ],
+      "name": "Glow Tulip"
+    },
+    "657": {
+      "color": [
+        61,
+        63,
+        75
+      ],
+      "name": "Echo Chamber"
+    },
+    "658": {
+      "color": [
+        171,
+        141,
+        206
+      ],
+      "name": "Aether Monolith"
+    },
+    "659": {
+      "color": [
+        199,
+        201,
+        203
+      ],
+      "name": "Aetherium Block"
+    },
+    "660": {
+      "color": [
+        95,
+        104,
+        142
+      ],
+      "name": "Faeling in a Bottle"
+    },
+    "661": {
+      "color": [
+        93,
+        79,
+        103
+      ],
+      "name": "Corrupt Jungle Grass Block"
+    },
+    "662": {
+      "color": [
+        128,
+        84,
+        107
+      ],
+      "name": "Crimson Jungle Grass Block"
+    },
+    "663": {
+      "color": [
+        84,
+        96,
+        134
+      ],
+      "name": "Enchanted Moondial"
+    },
+    "664": {
+      "color": [
+        187,
+        93,
+        156
+      ],
+      "name": "Bouncy Boulder"
+    },
+    "665": {
+      "color": [
+        149,
+        66,
+        92
+      ],
+      "name": "Life Crystal Boulder"
+    },
+    "666": {
+      "color": [
+        118,
+        65,
+        43
+      ],
+      "name": "Poo Block"
+    },
+    "667": {
+      "color": [
+        196,
+        208,
+        218
+      ],
+      "name": "Aetherium Brick"
+    },
+    "668": {
+      "color": [
+        145,
+        103,
+        77
+      ],
+      "name": "The Dirtiest Block"
+    },
+    "669": {
+      "color": [
+        141,
+        134,
+        150
+      ],
+      "name": "Lunar Rust Brick"
+    },
+    "670": {
+      "color": [
+        114,
+        132,
+        148
+      ],
+      "name": "Dark Celestial Brick"
+    },
+    "671": {
+      "color": [
+        79,
+        136,
+        176
+      ],
+      "name": "Astra Brick"
+    },
+    "672": {
+      "color": [
+        131,
+        134,
+        114
+      ],
+      "name": "Cosmic Ember Brick"
+    },
+    "673": {
+      "color": [
+        89,
+        145,
+        166
+      ],
+      "name": "Cryocore Brick"
+    },
+    "674": {
+      "color": [
+        140,
+        147,
+        149
+      ],
+      "name": "Mercury Brick"
+    },
+    "675": {
+      "color": [
+        124,
+        132,
+        168
+      ],
+      "name": "Star Royale Brick"
+    },
+    "676": {
+      "color": [
+        121,
+        128,
+        149
+      ],
+      "name": "Heavenforge Brick"
+    },
+    "677": {
+      "color": [
+        84,
+        86,
+        161
+      ],
+      "name": "Ancient Blue Brick"
+    },
+    "678": {
+      "color": [
+        65,
+        133,
+        53
+      ],
+      "name": "Ancient Green Brick"
+    },
+    "679": {
+      "color": [
+        129,
+        50,
+        96
+      ],
+      "name": "Ancient Pink Brick"
+    },
+    "680": {
+      "color": [
+        155,
+        139,
+        67
+      ],
+      "name": "Ancient Gold Brick"
+    },
+    "681": {
+      "color": [
+        121,
+        133,
+        135
+      ],
+      "name": "Ancient Silver Brick"
+    },
+    "682": {
+      "color": [
+        158,
+        97,
+        65
+      ],
+      "name": "Ancient Copper Brick"
+    },
+    "683": {
+      "color": [
+        74,
+        70,
+        119
+      ],
+      "name": "Ancient Obsidian Brick"
+    },
+    "684": {
+      "color": [
+        145,
+        75,
+        67
+      ],
+      "name": "Ancient Hellstone Brick"
+    },
+    "685": {
+      "color": [
+        35,
+        94,
+        127
+      ],
+      "name": "Ancient Cobalt Brick"
+    },
+    "686": {
+      "color": [
+        113,
+        137,
+        98
+      ],
+      "name": "Ancient Mythril Brick"
+    },
+    "687": {
+      "color": [
+        144,
+        37,
+        5
+      ],
+      "name": "Lava Moss Brick"
+    },
+    "688": {
+      "color": [
+        129,
+        14,
+        93
+      ],
+      "name": "Argon Moss Brick"
+    },
+    "689": {
+      "color": [
+        28,
+        124,
+        62
+      ],
+      "name": "Krypton Moss Brick"
+    },
+    "690": {
+      "color": [
+        11,
+        95,
+        131
+      ],
+      "name": "Xenon Moss Brick"
+    },
+    "691": {
+      "color": [
+        80,
+        17,
+        107
+      ],
+      "name": "Neon Moss Brick"
+    },
+    "692": {
+      "color": [
+        67,
+        67,
+        67
+      ],
+      "name": "Helium Moss Brick"
+    },
+    "693":   { "color":[0, 18, 154],  "name":"Water" },
+    "694":    { "color":[255, 66, 16],   "name":"Lava"  },
+    "695":   { "color":[212, 147, 11],  "name":"Honey" },
+    "696": { "color":[216, 100, 219], "name":"Shimmer" }
+  },
+  "walls": {
+    "0": {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "name": "Sky"
+    },
+    "1": {
+      "color": [
+        53,
+        53,
+        53
+      ],
+      "name": "Stone Wall"
+    },
+    "2": {
+      "color": [
+        87,
+        60,
+        48
+      ],
+      "name": "Dirt Wall (natural)"
+    },
+    "3": {
+      "color": [
+        47,
+        41,
+        53
+      ],
+      "name": "Ebonstone Wall (natural)"
+    },
+    "4": {
+      "color": [
+        69,
+        50,
+        37
+      ],
+      "name": "Wood Wall"
+    },
+    "5": {
+      "color": [
+        59,
+        59,
+        59
+      ],
+      "name": "Gray Brick Wall"
+    },
+    "6": {
+      "color": [
+        76,
+        44,
+        41
+      ],
+      "name": "Red Brick Wall"
+    },
+    "7": {
+      "color": [
+        46,
+        50,
+        67
+      ],
+      "name": "Cursed Blue Brick Wall"
+    },
+    "8": {
+      "color": [
+        49,
+        61,
+        61
+      ],
+      "name": "Cursed Green Brick Wall"
+    },
+    "9": {
+      "color": [
+        75,
+        46,
+        70
+      ],
+      "name": "Cursed Pink Brick Wall"
+    },
+    "10": {
+      "color": [
+        107,
+        91,
+        34
+      ],
+      "name": "Gold Brick Wall"
+    },
+    "11": {
+      "color": [
+        79,
+        85,
+        86
+      ],
+      "name": "Silver Brick Wall"
+    },
+    "12": {
+      "color": [
+        101,
+        57,
+        25
+      ],
+      "name": "Copper Brick Wall"
+    },
+    "13": {
+      "color": [
+        77,
+        48,
+        43
+      ],
+      "name": "Hellstone Brick Wall (natural)"
+    },
+    "14": {
+      "color": [
+        12,
+        12,
+        12
+      ],
+      "name": "Obsidian Brick Wall (natural)"
+    },
+    "15": {
+      "color": [
+        49,
+        43,
+        44
+      ],
+      "name": "Mud Wall (natural)"
+    },
+    "16": {
+      "color": [
+        81,
+        63,
+        54
+      ],
+      "name": "Dirt Wall"
+    },
+    "17": {
+      "color": [
+        46,
+        50,
+        67
+      ],
+      "name": "Blue Brick Wall"
+    },
+    "18": {
+      "color": [
+        49,
+        61,
+        61
+      ],
+      "name": "Green Brick Wall"
+    },
+    "19": {
+      "color": [
+        75,
+        46,
+        70
+      ],
+      "name": "Pink Brick Wall"
+    },
+    "20": {
+      "color": [
+        12,
+        12,
+        12
+      ],
+      "name": "Obsidian Brick Wall"
+    },
+    "21": {
+      "color": [
+        54,
+        89,
+        98
+      ],
+      "name": "Glass Wall"
+    },
+    "22": {
+      "color": [
+        97,
+        92,
+        94
+      ],
+      "name": "Pearlstone Brick Wall"
+    },
+    "23": {
+      "color": [
+        56,
+        44,
+        58
+      ],
+      "name": "Iridescent Brick Wall"
+    },
+    "24": {
+      "color": [
+        49,
+        40,
+        42
+      ],
+      "name": "Mudstone Brick Wall"
+    },
+    "25": {
+      "color": [
+        18,
+        66,
+        98
+      ],
+      "name": "Cobalt Brick Wall"
+    },
+    "26": {
+      "color": [
+        34,
+        64,
+        54
+      ],
+      "name": "Mythril Brick Wall"
+    },
+    "27": {
+      "color": [
+        58,
+        48,
+        42
+      ],
+      "name": "Planked Wall"
+    },
+    "28": {
+      "color": [
+        77,
+        70,
+        81
+      ],
+      "name": "Pearlstone Wall (natural)"
+    },
+    "29": {
+      "color": [
+        112,
+        58,
+        68
+      ],
+      "name": "Red Candy Cane Wall"
+    },
+    "30": {
+      "color": [
+        56,
+        115,
+        80
+      ],
+      "name": "Green Candy Cane Wall"
+    },
+    "31": {
+      "color": [
+        94,
+        101,
+        108
+      ],
+      "name": "Snow Brick Wall"
+    },
+    "32": {
+      "color": [
+        102,
+        20,
+        48
+      ],
+      "name": "Adamantite Beam Wall"
+    },
+    "33": {
+      "color": [
+        48,
+        48,
+        73
+      ],
+      "name": "Demonite Brick Wall"
+    },
+    "34": {
+      "color": [
+        86,
+        83,
+        57
+      ],
+      "name": "Sandstone Brick Wall"
+    },
+    "35": {
+      "color": [
+        54,
+        59,
+        82
+      ],
+      "name": "Ebonstone Brick Wall"
+    },
+    "36": {
+      "color": [
+        124,
+        70,
+        63
+      ],
+      "name": "Red Stucco Wall"
+    },
+    "37": {
+      "color": [
+        89,
+        84,
+        55
+      ],
+      "name": "Yellow Stucco Wall"
+    },
+    "38": {
+      "color": [
+        60,
+        90,
+        70
+      ],
+      "name": "Green Stucco Wall"
+    },
+    "39": {
+      "color": [
+        89,
+        89,
+        84
+      ],
+      "name": "Gray Stucco Wall"
+    },
+    "40": {
+      "color": [
+        100,
+        118,
+        129
+      ],
+      "name": "Snow Wall (natural)"
+    },
+    "41": {
+      "color": [
+        57,
+        55,
+        64
+      ],
+      "name": "Ebonwood Wall"
+    },
+    "42": {
+      "color": [
+        62,
+        25,
+        27
+      ],
+      "name": "Rich Mahogany Wall"
+    },
+    "43": {
+      "color": [
+        60,
+        55,
+        44
+      ],
+      "name": "Pearlwood Wall"
+    },
+    "44": {
+      "color": [
+        51,
+        51,
+        51
+      ],
+      "name": "Rainbow Brick Wall"
+    },
+    "45": {
+      "color": [
+        65,
+        63,
+        57
+      ],
+      "name": "Tin Brick Wall"
+    },
+    "46": {
+      "color": [
+        68,
+        83,
+        69
+      ],
+      "name": "Tungsten Brick Wall"
+    },
+    "47": {
+      "color": [
+        66,
+        70,
+        82
+      ],
+      "name": "Platinum Brick Wall"
+    },
+    "48": {
+      "color": [
+        78,
+        69,
+        83
+      ],
+      "name": "Amethyst Wall (natural)"
+    },
+    "49": {
+      "color": [
+        81,
+        74,
+        63
+      ],
+      "name": "Topaz Wall (natural)"
+    },
+    "50": {
+      "color": [
+        56,
+        66,
+        81
+      ],
+      "name": "Sapphire Wall (natural)"
+    },
+    "51": {
+      "color": [
+        50,
+        73,
+        59
+      ],
+      "name": "Emerald Wall (natural)"
+    },
+    "52": {
+      "color": [
+        82,
+        59,
+        64
+      ],
+      "name": "Ruby Wall (natural)"
+    },
+    "53": {
+      "color": [
+        70,
+        79,
+        81
+      ],
+      "name": "Diamond Wall (natural)"
+    },
+    "54": {
+      "color": [
+        46,
+        58,
+        54
+      ],
+      "name": "Green Mossy Wall (natural)"
+    },
+    "55": {
+      "color": [
+        56,
+        56,
+        46
+      ],
+      "name": "Brown Mossy Wall (natural)"
+    },
+    "56": {
+      "color": [
+        57,
+        49,
+        49
+      ],
+      "name": "Red Mossy Wall (natural)"
+    },
+    "57": {
+      "color": [
+        45,
+        51,
+        56
+      ],
+      "name": "Blue Mossy Wall (natural)"
+    },
+    "58": {
+      "color": [
+        56,
+        48,
+        59
+      ],
+      "name": "Purple Mossy Wall (natural)"
+    },
+    "59": {
+      "color": [
+        80,
+        63,
+        55
+      ],
+      "name": "Rocky Dirt Wall (natural)"
+    },
+    "60": {
+      "color": [
+        0,
+        49,
+        17
+      ],
+      "name": "Living Leaf Wall (natural)"
+    },
+    "61": {
+      "color": [
+        55,
+        40,
+        28
+      ],
+      "name": "Old Stone Wall (natural)"
+    },
+    "62": {
+      "color": [
+        32,
+        28,
+        22
+      ],
+      "name": "Infested Spider Wall"
+    },
+    "63": {
+      "color": [
+        25,
+        67,
+        38
+      ],
+      "name": "Grass Wall (natural)"
+    },
+    "64": {
+      "color": [
+        47,
+        67,
+        25
+      ],
+      "name": "Jungle Wall (natural)"
+    },
+    "65": {
+      "color": [
+        25,
+        67,
+        38
+      ],
+      "name": "Flower Wall (natural)"
+    },
+    "66": {
+      "color": [
+        25,
+        67,
+        38
+      ],
+      "name": "Grass Wall"
+    },
+    "67": {
+      "color": [
+        47,
+        67,
+        25
+      ],
+      "name": "Jungle Wall"
+    },
+    "68": {
+      "color": [
+        25,
+        67,
+        38
+      ],
+      "name": "Flower Wall"
+    },
+    "69": {
+      "color": [
+        36,
+        37,
+        57
+      ],
+      "name": "Corrupt Grass Wall (natural)"
+    },
+    "70": {
+      "color": [
+        25,
+        61,
+        67
+      ],
+      "name": "Hallowed Grass Wall (natural)"
+    },
+    "71": {
+      "color": [
+        82,
+        108,
+        134
+      ],
+      "name": "Ice Wall (natural)"
+    },
+    "72": {
+      "color": [
+        45,
+        84,
+        24
+      ],
+      "name": "Cactus Wall"
+    },
+    "73": {
+      "color": [
+        211,
+        217,
+        219
+      ],
+      "name": "Cloud Wall"
+    },
+    "74": {
+      "color": [
+        54,
+        60,
+        113
+      ],
+      "name": "Mushroom Wall"
+    },
+    "75": {
+      "color": [
+        61,
+        61,
+        44
+      ],
+      "name": "Bone Block Wall"
+    },
+    "76": {
+      "color": [
+        26,
+        51,
+        111
+      ],
+      "name": "Slime Block Wall"
+    },
+    "77": {
+      "color": [
+        75,
+        18,
+        22
+      ],
+      "name": "Flesh Block Wall"
+    },
+    "78": {
+      "color": [
+        58,
+        35,
+        24
+      ],
+      "name": "Living Wood Wall"
+    },
+    "79": {
+      "color": [
+        36,
+        33,
+        65
+      ],
+      "name": "Obsidian Back Wall (natural)"
+    },
+    "80": {
+      "color": [
+        54,
+        60,
+        113
+      ],
+      "name": "Mushroom Wall (natural)"
+    },
+    "81": {
+      "color": [
+        101,
+        52,
+        52
+      ],
+      "name": "Crimson Grass Wall (natural)"
+    },
+    "82": {
+      "color": [
+        56,
+        19,
+        0
+      ],
+      "name": "Disc Wall"
+    },
+    "83": {
+      "color": [
+        62,
+        44,
+        45
+      ],
+      "name": "Crimstone Wall (natural)"
+    },
+    "84": {
+      "color": [
+        78,
+        105,
+        131
+      ],
+      "name": "Ice Brick Wall"
+    },
+    "85": {
+      "color": [
+        32,
+        39,
+        45
+      ],
+      "name": "Shadewood Wall"
+    },
+    "86": {
+      "color": [
+        121,
+        80,
+        36
+      ],
+      "name": "Hive Wall (natural)"
+    },
+    "87": {
+      "color": [
+        28,
+        8,
+        10
+      ],
+      "name": "Forbidden Lihzahrd Brick Wall"
+    },
+    "88": {
+      "color": [
+        115,
+        68,
+        124
+      ],
+      "name": "Purple Stained Glass"
+    },
+    "89": {
+      "color": [
+        129,
+        114,
+        74
+      ],
+      "name": "Yellow Stained Glass"
+    },
+    "90": {
+      "color": [
+        62,
+        86,
+        123
+      ],
+      "name": "Blue Stained Glass"
+    },
+    "91": {
+      "color": [
+        90,
+        121,
+        94
+      ],
+      "name": "Green Stained Glass"
+    },
+    "92": {
+      "color": [
+        135,
+        62,
+        61
+      ],
+      "name": "Red Stained Glass"
+    },
+    "93": {
+      "color": [
+        100,
+        96,
+        103
+      ],
+      "name": "Multicolored Stained Glass"
+    },
+    "94": {
+      "color": [
+        36,
+        48,
+        57
+      ],
+      "name": "Cursed Blue Slab Wall"
+    },
+    "95": {
+      "color": [
+        48,
+        46,
+        58
+      ],
+      "name": "Cursed Blue Tiled Wall"
+    },
+    "96": {
+      "color": [
+        71,
+        46,
+        73
+      ],
+      "name": "Cursed Pink Slab Wall"
+    },
+    "97": {
+      "color": [
+        76,
+        46,
+        64
+      ],
+      "name": "Cursed Pink Tiled Wall"
+    },
+    "98": {
+      "color": [
+        51,
+        63,
+        57
+      ],
+      "name": "Cursed Green Slab Wall"
+    },
+    "99": {
+      "color": [
+        49,
+        58,
+        64
+      ],
+      "name": "Cursed Green Tiled Wall"
+    },
+    "100": {
+      "color": [
+        36,
+        48,
+        57
+      ],
+      "name": "Blue Slab Wall"
+    },
+    "101": {
+      "color": [
+        48,
+        46,
+        58
+      ],
+      "name": "Blue Tiled Wall"
+    },
+    "102": {
+      "color": [
+        71,
+        46,
+        73
+      ],
+      "name": "Pink Slab Wall"
+    },
+    "103": {
+      "color": [
+        76,
+        46,
+        64
+      ],
+      "name": "Pink Tiled Wall"
+    },
+    "104": {
+      "color": [
+        51,
+        63,
+        57
+      ],
+      "name": "Green Slab Wall"
+    },
+    "105": {
+      "color": [
+        49,
+        58,
+        64
+      ],
+      "name": "Green Tiled Wall"
+    },
+    "106": {
+      "color": [
+        97,
+        72,
+        51
+      ],
+      "name": "Wooden Fence"
+    },
+    "107": {
+      "color": [
+        53,
+        53,
+        53
+      ],
+      "name": "Lead Fence"
+    },
+    "108": {
+      "color": [
+        121,
+        80,
+        36
+      ],
+      "name": "Hive Wall"
+    },
+    "109": {
+      "color": [
+        110,
+        37,
+        19
+      ],
+      "name": "Palladium Column Wall"
+    },
+    "110": {
+      "color": [
+        135,
+        57,
+        137
+      ],
+      "name": "Bubblegum Block Wall"
+    },
+    "111": {
+      "color": [
+        33,
+        25,
+        21
+      ],
+      "name": "Titanstone Block Wall"
+    },
+    "112": {
+      "color": [
+        28,
+        8,
+        10
+      ],
+      "name": "Lihzahrd Brick Wall"
+    },
+    "113": {
+      "color": [
+        160,
+        75,
+        7
+      ],
+      "name": "Pumpkin Wall"
+    },
+    "114": {
+      "color": [
+        54,
+        42,
+        19
+      ],
+      "name": "Hay Wall"
+    },
+    "115": {
+      "color": [
+        42,
+        30,
+        53
+      ],
+      "name": "Spooky Wood Wall"
+    },
+    "116": {
+      "color": [
+        60,
+        34,
+        25
+      ],
+      "name": "Christmas Tree Wallpaper"
+    },
+    "117": {
+      "color": [
+        91,
+        83,
+        64
+      ],
+      "name": "Ornament Wallpaper"
+    },
+    "118": {
+      "color": [
+        59,
+        61,
+        54
+      ],
+      "name": "Candy Cane Wallpaper"
+    },
+    "119": {
+      "color": [
+        47,
+        39,
+        25
+      ],
+      "name": "Festive Wallpaper"
+    },
+    "120": {
+      "color": [
+        80,
+        88,
+        111
+      ],
+      "name": "Stars Wallpaper"
+    },
+    "121": {
+      "color": [
+        186,
+        167,
+        138
+      ],
+      "name": "Squiggles Wallpaper"
+    },
+    "122": {
+      "color": [
+        110,
+        119,
+        143
+      ],
+      "name": "Snowflake Wallpaper"
+    },
+    "123": {
+      "color": [
+        138,
+        128,
+        110
+      ],
+      "name": "Krampus Horn Wallpaper"
+    },
+    "124": {
+      "color": [
+        7,
+        48,
+        30
+      ],
+      "name": "Bluegreen Wallpaper"
+    },
+    "125": {
+      "color": [
+        78,
+        103,
+        70
+      ],
+      "name": "Grinch Finger Wallpaper"
+    },
+    "126": {
+      "color": [
+        109,
+        111,
+        123
+      ],
+      "name": "Fancy Gray Wallpaper"
+    },
+    "127": {
+      "color": [
+        112,
+        166,
+        226
+      ],
+      "name": "Ice Floe Wallpaper"
+    },
+    "128": {
+      "color": [
+        69,
+        56,
+        140
+      ],
+      "name": "Music Wallpaper"
+    },
+    "129": {
+      "color": [
+        72,
+        44,
+        145
+      ],
+      "name": "Purple Rain Wallpaper"
+    },
+    "130": {
+      "color": [
+        114,
+        85,
+        121
+      ],
+      "name": "Rainbow Wallpaper"
+    },
+    "131": {
+      "color": [
+        104,
+        119,
+        158
+      ],
+      "name": "Sparkle Stone Wallpaper"
+    },
+    "132": {
+      "color": [
+        74,
+        74,
+        74
+      ],
+      "name": "Starlit Heaven Wallpaper"
+    },
+    "133": {
+      "color": [
+        95,
+        119,
+        191
+      ],
+      "name": "Bubble Wallpaper"
+    },
+    "134": {
+      "color": [
+        144,
+        79,
+        22
+      ],
+      "name": "Copper Pipe Wallpaper"
+    },
+    "135": {
+      "color": [
+        62,
+        130,
+        138
+      ],
+      "name": "Ducky Wallpaper"
+    },
+    "136": {
+      "color": [
+        61,
+        98,
+        169
+      ],
+      "name": "Waterfall Wall"
+    },
+    "137": {
+      "color": [
+        183,
+        84,
+        14
+      ],
+      "name": "Lavafall Wall"
+    },
+    "138": {
+      "color": [
+        61,
+        57,
+        69
+      ],
+      "name": "Ebonwood Fence"
+    },
+    "139": {
+      "color": [
+        74,
+        32,
+        34
+      ],
+      "name": "Rich Mahogany Fence"
+    },
+    "140": {
+      "color": [
+        110,
+        100,
+        76
+      ],
+      "name": "Pearlwood Fence"
+    },
+    "141": {
+      "color": [
+        66,
+        70,
+        60
+      ],
+      "name": "Shadewood Fence"
+    },
+    "142": {
+      "color": [
+        214,
+        206,
+        187
+      ],
+      "name": "White Dynasty Wall"
+    },
+    "143": {
+      "color": [
+        83,
+        106,
+        99
+      ],
+      "name": "Blue Dynasty Wall"
+    },
+    "144": {
+      "color": [
+        89,
+        67,
+        68
+      ],
+      "name": "Arcane Rune Wall"
+    },
+    "145": {
+      "color": [
+        120,
+        120,
+        120
+      ],
+      "name": "Iron Fence"
+    },
+    "146": {
+      "color": [
+        103,
+        55,
+        24
+      ],
+      "name": "Copper Plating Wall"
+    },
+    "147": {
+      "color": [
+        77,
+        77,
+        77
+      ],
+      "name": "Stone Slab Wall"
+    },
+    "148": {
+      "color": [
+        229,
+        218,
+        161
+      ],
+      "name": "Sail"
+    },
+    "149": {
+      "color": [
+        82,
+        70,
+        65
+      ],
+      "name": "Boreal Wood Wall"
+    },
+    "150": {
+      "color": [
+        81,
+        69,
+        62
+      ],
+      "name": "Boreal Wood Fence"
+    },
+    "151": {
+      "color": [
+        103,
+        76,
+        36
+      ],
+      "name": "Palm Wood Wall"
+    },
+    "152": {
+      "color": [
+        103,
+        76,
+        36
+      ],
+      "name": "Palm Wood Fence"
+    },
+    "153": {
+      "color": [
+        255,
+        116,
+        63
+      ],
+      "name": "Amber Gemspark Wall"
+    },
+    "154": {
+      "color": [
+        191,
+        63,
+        255
+      ],
+      "name": "Amethyst Gemspark Wall"
+    },
+    "155": {
+      "color": [
+        219,
+        219,
+        232
+      ],
+      "name": "Diamond Gemspark Wall"
+    },
+    "156": {
+      "color": [
+        63,
+        255,
+        71
+      ],
+      "name": "Emerald Gemspark Wall"
+    },
+    "157": {
+      "color": [
+        118,
+        63,
+        37
+      ],
+      "name": "Offline Amber Gemspark Wall"
+    },
+    "158": {
+      "color": [
+        81,
+        37,
+        118
+      ],
+      "name": "Offline Amethyst Gemspark Wall"
+    },
+    "159": {
+      "color": [
+        64,
+        67,
+        89
+      ],
+      "name": "Offline Diamond Gemspark Wall"
+    },
+    "160": {
+      "color": [
+        37,
+        118,
+        52
+      ],
+      "name": "Offline Emerald Gemspark Wall"
+    },
+    "161": {
+      "color": [
+        118,
+        37,
+        58
+      ],
+      "name": "Offline Ruby Gemspark Wall"
+    },
+    "162": {
+      "color": [
+        37,
+        37,
+        118
+      ],
+      "name": "Offline Sapphire Gemspark Wall"
+    },
+    "163": {
+      "color": [
+        118,
+        113,
+        37
+      ],
+      "name": "Offline Topaz Gemspark Wall"
+    },
+    "164": {
+      "color": [
+        255,
+        63,
+        63
+      ],
+      "name": "Ruby Gemspark Wall"
+    },
+    "165": {
+      "color": [
+        63,
+        81,
+        255
+      ],
+      "name": "Sapphire Gemspark Wall"
+    },
+    "166": {
+      "color": [
+        239,
+        255,
+        63
+      ],
+      "name": "Topaz Gemspark Wall"
+    },
+    "167": {
+      "color": [
+        78,
+        77,
+        58
+      ],
+      "name": "Tin Plating Wall"
+    },
+    "168": {
+      "color": [
+        84,
+        97,
+        84
+      ],
+      "name": "Confetti Wall"
+    },
+    "169": {
+      "color": [
+        92,
+        105,
+        90
+      ],
+      "name": "Midnight Confetti Wall"
+    },
+    "170": {
+      "color": [
+        93,
+        68,
+        47
+      ],
+      "name": "Cave Dirt Wall (natural)"
+    },
+    "171": {
+      "color": [
+        84,
+        60,
+        39
+      ],
+      "name": "Rough Dirt Wall (natural)"
+    },
+    "172": {
+      "color": [
+        168,
+        125,
+        0
+      ],
+      "name": "Honeyfall Wall"
+    },
+    "173": {
+      "color": [
+        49,
+        105,
+        25
+      ],
+      "name": "Chlorophyte Brick Wall"
+    },
+    "174": {
+      "color": [
+        69,
+        48,
+        54
+      ],
+      "name": "Crimtane Brick Wall"
+    },
+    "175": {
+      "color": [
+        33,
+        50,
+        188
+      ],
+      "name": "Shroomite Plating Wall"
+    },
+    "176": {
+      "color": [
+        75,
+        128,
+        148
+      ],
+      "name": "Martian Conduit Wall"
+    },
+    "177": {
+      "color": [
+        72,
+        50,
+        46
+      ],
+      "name": "Hellstone Brick Wall"
+    },
+    "178": {
+      "color": [
+        120,
+        127,
+        143
+      ],
+      "name": "Marble Wall (natural)"
+    },
+    "179": {
+      "color": [
+        124,
+        131,
+        148
+      ],
+      "name": "Smooth Marble Wall"
+    },
+    "180": {
+      "color": [
+        15,
+        16,
+        45
+      ],
+      "name": "Granite Wall (natural)"
+    },
+    "181": {
+      "color": [
+        31,
+        31,
+        74
+      ],
+      "name": "Smooth Granite Wall"
+    },
+    "182": {
+      "color": [
+        57,
+        55,
+        99
+      ],
+      "name": "Meteorite Brick Wall"
+    },
+    "183": {
+      "color": [
+        120,
+        127,
+        143
+      ],
+      "name": "Marble Wall"
+    },
+    "184": {
+      "color": [
+        15,
+        16,
+        45
+      ],
+      "name": "Granite Wall"
+    },
+    "185": {
+      "color": [
+        61,
+        61,
+        61
+      ],
+      "name": "Craggy Stone Wall (natural)"
+    },
+    "186": {
+      "color": [
+        55,
+        23,
+        100
+      ],
+      "name": "Crystal Block Wall"
+    },
+    "187": {
+      "color": [
+        126,
+        68,
+        43
+      ],
+      "name": "Treacherous Sandstone Wall"
+    },
+    "188": {
+      "color": [
+        63,
+        47,
+        63
+      ],
+      "name": "Corrupt Growth Wall (natural)"
+    },
+    "189": {
+      "color": [
+        65,
+        51,
+        77
+      ],
+      "name": "Corrupt Mass Wall (natural)"
+    },
+    "190": {
+      "color": [
+        67,
+        72,
+        59
+      ],
+      "name": "Corrupt Pustule Wall (natural)"
+    },
+    "191": {
+      "color": [
+        60,
+        38,
+        67
+      ],
+      "name": "Corrupt Tendril Wall (natural)"
+    },
+    "192": {
+      "color": [
+        123,
+        56,
+        47
+      ],
+      "name": "Crimson Crust Wall (natural)"
+    },
+    "193": {
+      "color": [
+        87,
+        24,
+        26
+      ],
+      "name": "Crimson Scab Wall (natural)"
+    },
+    "194": {
+      "color": [
+        102,
+        64,
+        53
+      ],
+      "name": "Crimson Teeth Wall (natural)"
+    },
+    "195": {
+      "color": [
+        122,
+        46,
+        54
+      ],
+      "name": "Crimson Blister Wall (natural)"
+    },
+    "196": {
+      "color": [
+        99,
+        70,
+        55
+      ],
+      "name": "Layered Dirt Wall (natural)"
+    },
+    "197": {
+      "color": [
+        102,
+        73,
+        57
+      ],
+      "name": "Crumbling Dirt Wall (natural)"
+    },
+    "198": {
+      "color": [
+        92,
+        65,
+        49
+      ],
+      "name": "Cracked Dirt Wall (natural)"
+    },
+    "199": {
+      "color": [
+        106,
+        75,
+        58
+      ],
+      "name": "Wavy Dirt Wall (natural)"
+    },
+    "200": {
+      "color": [
+        81,
+        33,
+        83
+      ],
+      "name": "Hallowed Prism Wall (natural)"
+    },
+    "201": {
+      "color": [
+        96,
+        79,
+        99
+      ],
+      "name": "Hallowed Cavern Wall (natural)"
+    },
+    "202": {
+      "color": [
+        124,
+        42,
+        104
+      ],
+      "name": "Hallowed Shard Wall (natural)"
+    },
+    "203": {
+      "color": [
+        111,
+        54,
+        112
+      ],
+      "name": "Hallowed Crystalline Wall (natural)"
+    },
+    "204": {
+      "color": [
+        75,
+        68,
+        55
+      ],
+      "name": "Lichen Stone Wall (natural)"
+    },
+    "205": {
+      "color": [
+        83,
+        83,
+        59
+      ],
+      "name": "Leafy Jungle Wall (natural)"
+    },
+    "206": {
+      "color": [
+        39,
+        67,
+        44
+      ],
+      "name": "Ivy Stone Wall (natural)"
+    },
+    "207": {
+      "color": [
+        77,
+        77,
+        55
+      ],
+      "name": "Jungle Vine Wall (natural)"
+    },
+    "208": {
+      "color": [
+        92,
+        36,
+        28
+      ],
+      "name": "Ember Wall (natural)"
+    },
+    "209": {
+      "color": [
+        96,
+        48,
+        39
+      ],
+      "name": "Cinder Wall (natural)"
+    },
+    "210": {
+      "color": [
+        108,
+        44,
+        26
+      ],
+      "name": "Magma Wall (natural)"
+    },
+    "211": {
+      "color": [
+        106,
+        42,
+        38
+      ],
+      "name": "Smouldering Stone Wall (natural)"
+    },
+    "212": {
+      "color": [
+        70,
+        69,
+        61
+      ],
+      "name": "Worn Stone Wall (natural)"
+    },
+    "213": {
+      "color": [
+        57,
+        60,
+        57
+      ],
+      "name": "Stalactite Stone Wall (natural)"
+    },
+    "214": {
+      "color": [
+        69,
+        57,
+        59
+      ],
+      "name": "Mottled Stone Wall (natural)"
+    },
+    "215": {
+      "color": [
+        71,
+        60,
+        66
+      ],
+      "name": "Fractured Stone Wall (natural)"
+    },
+    "216": {
+      "color": [
+        148,
+        93,
+        52
+      ],
+      "name": "Treacherous Hardened Sand Wall"
+    },
+    "217": {
+      "color": [
+        51,
+        38,
+        65
+      ],
+      "name": "Treacherous Hardened Ebonsand Wall"
+    },
+    "218": {
+      "color": [
+        43,
+        24,
+        22
+      ],
+      "name": "Treacherous Hardened Crimsand Wall"
+    },
+    "219": {
+      "color": [
+        78,
+        73,
+        114
+      ],
+      "name": "Treacherous Hardened Pearlsand Wall"
+    },
+    "220": {
+      "color": [
+        54,
+        36,
+        68
+      ],
+      "name": "Treacherous Ebonsandstone Wall"
+    },
+    "221": {
+      "color": [
+        73,
+        18,
+        12
+      ],
+      "name": "Treacherous Crimsandstone Wall"
+    },
+    "222": {
+      "color": [
+        58,
+        47,
+        81
+      ],
+      "name": "Treacherous Pearlsandstone Wall"
+    },
+    "223": {
+      "color": [
+        115,
+        65,
+        34
+      ],
+      "name": "Desert Fossil Wall (natural)"
+    },
+    "224": {
+      "color": [
+        103,
+        112,
+        104
+      ],
+      "name": "Luminite Brick Wall"
+    },
+    "225": {
+      "color": [
+        76,
+        71,
+        56
+      ],
+      "name": "Cog Wall"
+    },
+    "226": {
+      "color": [
+        133,
+        124,
+        66
+      ],
+      "name": "Sandfall Wall"
+    },
+    "227": {
+      "color": [
+        83,
+        101,
+        112
+      ],
+      "name": "Snowfall Wall"
+    },
+    "228": {
+      "color": [
+        139,
+        0,
+        64
+      ],
+      "name": "Silly Pink Balloon Wall"
+    },
+    "229": {
+      "color": [
+        80,
+        12,
+        162
+      ],
+      "name": "Silly Purple Balloon Wall"
+    },
+    "230": {
+      "color": [
+        0,
+        93,
+        81
+      ],
+      "name": "Silly Green Balloon Wall"
+    },
+    "231": {
+      "color": [
+        81,
+        68,
+        62
+      ],
+      "name": "Iron Brick Wall"
+    },
+    "232": {
+      "color": [
+        37,
+        47,
+        57
+      ],
+      "name": "Lead Brick Wall"
+    },
+    "233": {
+      "color": [
+        72,
+        53,
+        55
+      ],
+      "name": "Lesion Block Wall"
+    },
+    "234": {
+      "color": [
+        103,
+        46,
+        48
+      ],
+      "name": "Crimstone Brick Wall"
+    },
+    "235": {
+      "color": [
+        126,
+        68,
+        43
+      ],
+      "name": "Smooth Sandstone Wall"
+    },
+    "236": {
+      "color": [
+        63,
+        35,
+        34
+      ],
+      "name": "Spider Nest Wall"
+    },
+    "237": {
+      "color": [
+        57,
+        34,
+        33
+      ],
+      "name": "Solar Brick Wall"
+    },
+    "238": {
+      "color": [
+        45,
+        46,
+        54
+      ],
+      "name": "Vortex Brick Wall"
+    },
+    "239": {
+      "color": [
+        43,
+        52,
+        56
+      ],
+      "name": "Nebula Brick Wall"
+    },
+    "240": {
+      "color": [
+        62,
+        45,
+        33
+      ],
+      "name": "Stardust Brick Wall"
+    },
+    "241": {
+      "color": [
+        146,
+        95,
+        53
+      ],
+      "name": "Orange Stained Glass"
+    },
+    "242": {
+      "color": [
+        78,
+        69,
+        55
+      ],
+      "name": "Gold Starry Wall"
+    },
+    "243": {
+      "color": [
+        23,
+        52,
+        86
+      ],
+      "name": "Blue Starry Wall"
+    },
+    "244": {
+      "color": [
+        58,
+        35,
+        24
+      ],
+      "name": "Living Wood Wall (natural)"
+    },
+    "245": {
+      "color": [
+        74,
+        74,
+        74
+      ],
+      "name": "Wrought Iron Fence"
+    },
+    "246": {
+      "color": [
+        47,
+        41,
+        53
+      ],
+      "name": "Ebonstone Wall"
+    },
+    "247": {
+      "color": [
+        49,
+        43,
+        44
+      ],
+      "name": "Mud Wall"
+    },
+    "248": {
+      "color": [
+        77,
+        70,
+        81
+      ],
+      "name": "Pearlstone Wall"
+    },
+    "249": {
+      "color": [
+        100,
+        118,
+        129
+      ],
+      "name": "Snow Wall"
+    },
+    "250": {
+      "color": [
+        78,
+        69,
+        83
+      ],
+      "name": "Amethyst Stone Wall"
+    },
+    "251": {
+      "color": [
+        81,
+        74,
+        63
+      ],
+      "name": "Topaz Stone Wall"
+    },
+    "252": {
+      "color": [
+        56,
+        66,
+        81
+      ],
+      "name": "Sapphire Stone Wall"
+    },
+    "253": {
+      "color": [
+        50,
+        73,
+        59
+      ],
+      "name": "Emerald Stone Wall"
+    },
+    "254": {
+      "color": [
+        82,
+        59,
+        64
+      ],
+      "name": "Ruby Stone Wall"
+    },
+    "255": {
+      "color": [
+        70,
+        79,
+        81
+      ],
+      "name": "Diamond Stone Wall"
+    },
+    "256": {
+      "color": [
+        46,
+        58,
+        54
+      ],
+      "name": "Green Mossy Wall"
+    },
+    "257": {
+      "color": [
+        56,
+        56,
+        46
+      ],
+      "name": "Brown Mossy Wall"
+    },
+    "258": {
+      "color": [
+        57,
+        49,
+        49
+      ],
+      "name": "Red Mossy Wall"
+    },
+    "259": {
+      "color": [
+        45,
+        51,
+        56
+      ],
+      "name": "Blue Mossy Wall"
+    },
+    "260": {
+      "color": [
+        56,
+        48,
+        59
+      ],
+      "name": "Purple Mossy Wall"
+    },
+    "261": {
+      "color": [
+        80,
+        63,
+        55
+      ],
+      "name": "Rocky Dirt Wall"
+    },
+    "262": {
+      "color": [
+        55,
+        40,
+        28
+      ],
+      "name": "Old Stone Wall"
+    },
+    "263": {
+      "color": [
+        32,
+        28,
+        22
+      ],
+      "name": "Spider Wall"
+    },
+    "264": {
+      "color": [
+        36,
+        37,
+        57
+      ],
+      "name": "Corrupt Grass Wall"
+    },
+    "265": {
+      "color": [
+        25,
+        61,
+        67
+      ],
+      "name": "Hallowed Grass Wall"
+    },
+    "266": {
+      "color": [
+        82,
+        108,
+        134
+      ],
+      "name": "Ice Wall"
+    },
+    "267": {
+      "color": [
+        36,
+        33,
+        65
+      ],
+      "name": "Obsidian Wall"
+    },
+    "268": {
+      "color": [
+        101,
+        52,
+        52
+      ],
+      "name": "Crimson Grass Wall"
+    },
+    "269": {
+      "color": [
+        62,
+        44,
+        45
+      ],
+      "name": "Crimstone Wall"
+    },
+    "270": {
+      "color": [
+        93,
+        68,
+        47
+      ],
+      "name": "Cave Dirt Wall"
+    },
+    "271": {
+      "color": [
+        84,
+        60,
+        39
+      ],
+      "name": "Rough Dirt Wall"
+    },
+    "272": {
+      "color": [
+        120,
+        127,
+        143
+      ],
+      "name": "Marble Wall (unused)"
+    },
+    "273": {
+      "color": [
+        15,
+        16,
+        45
+      ],
+      "name": "Granite Wall (unused)"
+    },
+    "274": {
+      "color": [
+        61,
+        61,
+        61
+      ],
+      "name": "Craggy Stone Wall"
+    },
+    "275": {
+      "color": [
+        126,
+        68,
+        43
+      ],
+      "name": "Sandstone Wall"
+    },
+    "276": {
+      "color": [
+        63,
+        47,
+        63
+      ],
+      "name": "Corrupt Growth Wall"
+    },
+    "277": {
+      "color": [
+        65,
+        51,
+        77
+      ],
+      "name": "Corrupt Mass Wall"
+    },
+    "278": {
+      "color": [
+        67,
+        72,
+        59
+      ],
+      "name": "Corrupt Pustule Wall"
+    },
+    "279": {
+      "color": [
+        60,
+        38,
+        67
+      ],
+      "name": "Corrupt Tendril Wall"
+    },
+    "280": {
+      "color": [
+        123,
+        56,
+        47
+      ],
+      "name": "Crimson Crust Wall"
+    },
+    "281": {
+      "color": [
+        87,
+        24,
+        26
+      ],
+      "name": "Crimson Scab Wall"
+    },
+    "282": {
+      "color": [
+        102,
+        64,
+        53
+      ],
+      "name": "Crimson Teeth Wall"
+    },
+    "283": {
+      "color": [
+        122,
+        46,
+        54
+      ],
+      "name": "Crimson Blister Wall"
+    },
+    "284": {
+      "color": [
+        99,
+        70,
+        55
+      ],
+      "name": "Layered Dirt Wall"
+    },
+    "285": {
+      "color": [
+        102,
+        73,
+        57
+      ],
+      "name": "Crumbling Dirt Wall"
+    },
+    "286": {
+      "color": [
+        92,
+        65,
+        49
+      ],
+      "name": "Cracked Dirt Wall"
+    },
+    "287": {
+      "color": [
+        106,
+        75,
+        58
+      ],
+      "name": "Wavy Dirt Wall"
+    },
+    "288": {
+      "color": [
+        81,
+        33,
+        83
+      ],
+      "name": "Hallowed Prism Wall"
+    },
+    "289": {
+      "color": [
+        96,
+        79,
+        99
+      ],
+      "name": "Hallowed Cavern Wall"
+    },
+    "290": {
+      "color": [
+        124,
+        42,
+        104
+      ],
+      "name": "Hallowed Shard Wall"
+    },
+    "291": {
+      "color": [
+        111,
+        54,
+        112
+      ],
+      "name": "Hallowed Crystalline Wall"
+    },
+    "292": {
+      "color": [
+        75,
+        68,
+        55
+      ],
+      "name": "Lichen Stone Wall"
+    },
+    "293": {
+      "color": [
+        83,
+        83,
+        59
+      ],
+      "name": "Leafy Jungle Wall"
+    },
+    "294": {
+      "color": [
+        39,
+        67,
+        44
+      ],
+      "name": "Ivy Stone Wall"
+    },
+    "295": {
+      "color": [
+        77,
+        77,
+        55
+      ],
+      "name": "Jungle Vine Wall"
+    },
+    "296": {
+      "color": [
+        92,
+        36,
+        28
+      ],
+      "name": "Ember Wall"
+    },
+    "297": {
+      "color": [
+        96,
+        48,
+        39
+      ],
+      "name": "Cinder Wall"
+    },
+    "298": {
+      "color": [
+        108,
+        44,
+        26
+      ],
+      "name": "Magma Wall"
+    },
+    "299": {
+      "color": [
+        106,
+        42,
+        38
+      ],
+      "name": "Smouldering Stone Wall"
+    },
+    "300": {
+      "color": [
+        70,
+        69,
+        61
+      ],
+      "name": "Worn Stone Wall"
+    },
+    "301": {
+      "color": [
+        57,
+        60,
+        57
+      ],
+      "name": "Stalactite Stone Wall"
+    },
+    "302": {
+      "color": [
+        69,
+        57,
+        59
+      ],
+      "name": "Mottled Stone Wall"
+    },
+    "303": {
+      "color": [
+        71,
+        60,
+        66
+      ],
+      "name": "Fractured Stone Wall"
+    },
+    "304": {
+      "color": [
+        148,
+        93,
+        52
+      ],
+      "name": "Hardened Sand Wall"
+    },
+    "305": {
+      "color": [
+        51,
+        38,
+        65
+      ],
+      "name": "Hardened Ebonsand Wall"
+    },
+    "306": {
+      "color": [
+        43,
+        24,
+        22
+      ],
+      "name": "Hardened Crimsand Wall"
+    },
+    "307": {
+      "color": [
+        78,
+        73,
+        114
+      ],
+      "name": "Hardened Pearlsand Wall"
+    },
+    "308": {
+      "color": [
+        54,
+        36,
+        68
+      ],
+      "name": "Ebonsandstone Wall"
+    },
+    "309": {
+      "color": [
+        73,
+        18,
+        12
+      ],
+      "name": "Crimsandstone Wall"
+    },
+    "310": {
+      "color": [
+        58,
+        47,
+        81
+      ],
+      "name": "Pearlsandstone Wall"
+    },
+    "311": {
+      "color": [
+        115,
+        65,
+        34
+      ],
+      "name": "Desert Fossil Wall"
+    },
+    "312": {
+      "color": [
+        36,
+        65,
+        16
+      ],
+      "name": "Bamboo Wall"
+    },
+    "313": {
+      "color": [
+        33,
+        61,
+        19
+      ],
+      "name": "Large Bamboo Wall"
+    },
+    "314": {
+      "color": [
+        74,
+        58,
+        44
+      ],
+      "name": "Amber Stone Wall"
+    },
+    "315": {
+      "color": [
+        114,
+        120,
+        45
+      ],
+      "name": "Bamboo Fence"
+    },
+    "316": {
+      "color": [
+        58,
+        52,
+        64
+      ],
+      "name": "Ash Wood Wall"
+    },
+    "317": {
+      "color": [
+        80,
+        70,
+        82
+      ],
+      "name": "Ash Wood Fence"
+    },
+    "318": {
+      "color": [
+        6,
+        6,
+        34
+      ],
+      "name": "Echo Wall"
+    },
+    "319": {
+      "color": [
+        91,
+        48,
+        82
+      ],
+      "name": "Reef Wall"
+    },
+    "320": {
+      "color": [
+        66,
+        39,
+        27
+      ],
+      "name": "Poo Wall"
+    },
+    "321": {
+      "color": [
+        62,
+        83,
+        108
+      ],
+      "name": "Aetherium Wall"
+    },
+    "322": {
+      "color": [
+        58,
+        84,
+        115
+      ],
+      "name": "Aetherium Brick Wall"
+    },
+    "323": {
+      "color": [
+        99,
+        94,
+        105
+      ],
+      "name": "Lunar Rust Brick Wall"
+    },
+    "324": {
+      "color": [
+        80,
+        92,
+        104
+      ],
+      "name": "Dark Celestial Brick Wall"
+    },
+    "325": {
+      "color": [
+        56,
+        95,
+        124
+      ],
+      "name": "Astra Brick Wall"
+    },
+    "326": {
+      "color": [
+        92,
+        94,
+        80
+      ],
+      "name": "Cosmic Ember Brick Wall"
+    },
+    "327": {
+      "color": [
+        62,
+        102,
+        116
+      ],
+      "name": "Cryocore Brick Wall"
+    },
+    "328": {
+      "color": [
+        98,
+        103,
+        105
+      ],
+      "name": "Mercury Brick Wall"
+    },
+    "329": {
+      "color": [
+        87,
+        92,
+        118
+      ],
+      "name": "Star Royale Brick Wall"
+    },
+    "330": {
+      "color": [
+        84,
+        89,
+        105
+      ],
+      "name": "Heavenforge Brick Wall"
+    },
+    "331": {
+      "color": [
+        42,
+        44,
+        81
+      ],
+      "name": "Ancient Blue Brick Wall"
+    },
+    "332": {
+      "color": [
+        34,
+        66,
+        26
+      ],
+      "name": "Ancient Green Brick Wall"
+    },
+    "333": {
+      "color": [
+        64,
+        25,
+        49
+      ],
+      "name": "Ancient Pink Brick Wall"
+    },
+    "334": {
+      "color": [
+        76,
+        66,
+        32
+      ],
+      "name": "Ancient Gold Brick Wall"
+    },
+    "335": {
+      "color": [
+        60,
+        65,
+        67
+      ],
+      "name": "Ancient Silver Brick Wall"
+    },
+    "336": {
+      "color": [
+        76,
+        45,
+        32
+      ],
+      "name": "Ancient Copper Brick Wall"
+    },
+    "337": {
+      "color": [
+        37,
+        36,
+        59
+      ],
+      "name": "Ancient Obsidian Brick Wall"
+    },
+    "338": {
+      "color": [
+        57,
+        34,
+        32
+      ],
+      "name": "Ancient Hellstone Brick Wall"
+    },
+    "339": {
+      "color": [
+        19,
+        43,
+        60
+      ],
+      "name": "Ancient Cobalt Brick Wall"
+    },
+    "340": {
+      "color": [
+        42,
+        67,
+        60
+      ],
+      "name": "Ancient Mythril Brick Wall"
+    },
+    "341": {
+      "color": [
+        104,
+        23,
+        0
+      ],
+      "name": "Lava Moss Brick Wall"
+    },
+    "342": {
+      "color": [
+        91,
+        9,
+        65
+      ],
+      "name": "Argon Moss Brick Wall"
+    },
+    "343": {
+      "color": [
+        17,
+        89,
+        43
+      ],
+      "name": "Krypton Moss Brick Wall"
+    },
+    "344": {
+      "color": [
+        5,
+        65,
+        94
+      ],
+      "name": "Xenon Moss Brick Wall"
+    },
+    "345": {
+      "color": [
+        58,
+        6,
+        81
+      ],
+      "name": "Neon Moss Brick Wall"
+    },
+    "346": {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "name": "Helium Moss Brick Wall"
+    }
+  }
+}
+
+
+  
